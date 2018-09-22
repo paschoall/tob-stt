@@ -97,28 +97,31 @@ int main(int argc, char * argv[]) {
 	else out_file = OUTPUT_FILE;
 
 	ifstream in (file, ios::in);
-	ofstream out (out_file, ios::out);
-
-
-	if(in.is_open() and out.is_open()) {
+	if(in.is_open()) {
 		while(in.eof() == false) {
 			string question, answer;
 			
-			while(question.size() == 0 or question[0] == '\n') getline(in, question);
-			while(answer.size() == 0 or answer[0] == '\n') getline(in, answer);
-			debug cout << question << " " << answer << endl;
+			while(in.eof() == false and (question.size() == 0 or question[0] == '\n')) getline(in, question);
+			while(in.eof() == false and (answer.size() == 0 or answer[0] == '\n')) getline(in, answer);
+			if(in.eof()) break;
+			
 			vector<string> ret = processLine(question, answer);
 			for(string s : ret) res += s;
 
 		}
+		in.close();
+		res += "</aiml>\n";
 	} else {
-		printf("Erro ao abrir os arquivos\n");
+		printf("Erro ao abrir arquivo de entrada\n");
 		return 0;
 	}
 
-	res += "</aiml>\n";
-
-	out << res;
-	in.close();
-	out.close();
+	ofstream out (out_file, ios::out);
+	if(out.is_open()) {
+		out << res;
+		out.close();
+	} else {
+		printf("Erro ao abrir arquivo de saida\n");
+		return 0;
+	}
 }
