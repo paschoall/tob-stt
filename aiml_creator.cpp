@@ -93,7 +93,7 @@ int main(int argc, char * argv[]) {
 	}
 
 	string file = string(argv[1]);
-	if(arc == 3) out_file = string(argv[2]);
+	if(argc == 3) out_file = string(argv[2]);
 	else out_file = OUTPUT_FILE;
 
 	ifstream in (file, ios::in);
