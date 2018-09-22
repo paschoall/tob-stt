@@ -87,7 +87,7 @@ int main(int argc, char * argv[]) {
 	string res = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<aiml>\n";
 	string out_file;
 
-	if(argc != 2 or argc != 3) {
+	if(argc != 2 and argc != 3) {
 		printf("Usage: %s <input text file> [output file] \n", argv[0]);
 		return 0;
 	}
