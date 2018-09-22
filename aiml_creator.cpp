@@ -85,16 +85,19 @@ vector<string> processLine(string que, string ans) {
 
 int main(int argc, char * argv[]) {
 	string res = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<aiml>\n";
+	string out_file;
 
-	if(argc != 2) {
-		printf("Usage: %s <input text file>\n", argv[0]);
+	if(argc != 2 or argc != 3) {
+		printf("Usage: %s <input text file> [output file] \n", argv[0]);
 		return 0;
 	}
 
 	string file = string(argv[1]);
+	if(arc == 3) out_file = string(argv[2]);
+	else out_file = OUTPUT_FILE;
 
 	ifstream in (file, ios::in);
-	ofstream out (OUTPUT_FILE, ios::out);
+	ofstream out (out_file, ios::out);
 
 
 	if(in.is_open() and out.is_open()) {
