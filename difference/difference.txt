@@ -1,0 +1,55 @@
+?difference? defect and fault QUESTION MARK
+A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.
+
+?difference? defect and failure QUESTION MARK
+A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.
+
+?difference? defect and error QUESTION MARK
+A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.
+
+?difference? fault and failure QUESTION MARK
+Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.
+
+?difference? fault and error QUESTION MARK
+Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.
+
+?difference? failure and error QUESTION MARK
+Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.
+
+?difference? fault and defect QUESTION MARK
+A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.
+
+?difference? failure and defect QUESTION MARK
+A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.
+
+?difference? eror and defect QUESTION MARK
+A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.
+
+?difference? failure and fault QUESTION MARK
+Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.
+
+?difference? error and fault QUESTION MARK
+Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.
+
+?difference? error and failure QUESTION MARK
+Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.
+
+?difference? test set and test case QUESTION MARK
+A test set is the group of all test cases used during a testing activity.
+?difference? test case and test set QUESTION MARK
+A test set is the group of all test cases used during a testing activity.
+
+?difference? test data and test case QUESTION MARK
+The test data is the input data and the parameters associated with a specific test case.
+?difference? test case and test data QUESTION MARK
+The test data is the input data and the parameters associated with a specific test case.
+
+?difference? structural testing and functional testing QUESTION MARK
+Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.
+?difference? functional testing and structural testing QUESTION MARK
+Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.
+
+?difference? white-box testing and black-box testing QUESTION MARK
+Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.
+?difference? black-box testing and white-box testing QUESTION MARK
+Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.
