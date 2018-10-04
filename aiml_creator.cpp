@@ -32,6 +32,7 @@ struct variants {
 		return v.size();
 	}
 };
+int flag = 0;
 
 map<string, variants> var;
 
@@ -52,6 +53,10 @@ string create_pattern(string & que, string & ans) {
 void build_question(vector<string> & list, string & que, int p, string s, string & ans) {
 	if(p == que.size()) {
 		list.push_back(create_pattern(s, ans));
+		if(flag == 0) {
+			ans = "<srai>" + s + "</srai>";
+			flag = 1;
+		}
 		return;
 	}
 
@@ -71,6 +76,8 @@ void build_question(vector<string> & list, string & que, int p, string s, string
 }
 vector<string> processLine(string que, string ans) {
 	vector<string> v;
+
+	flag = 0;
 
 	build_question(v, que, 0, "", ans);
 	return v;
@@ -97,7 +104,7 @@ int main(int argc, char * argv[]) {
 			while(in.eof() == false and (question.size() == 0 or question[0] == '\n')) getline(in, question);
 			while(in.eof() == false and (answer.size() == 0 or answer[0] == '\n')) getline(in, answer);
 			if(in.eof()) break;
-
+			
 			vector<string> ret = processLine(question, answer);
 			for(string s : ret) res += s;
 
