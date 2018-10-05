@@ -11,7 +11,11 @@ struct variants {
 	variants(){}
 	variants(string file) {
 		ifstream in (file + ".set", ios::in);
-		if(in.is_open() == false) throw "Error opening file";
+		if(in.is_open() == false){
+			char str[100];
+			sprintf(str, "Error opening file %s", file.c_str());
+			throw str;
+		}
 		while(in.eof() == false) {
 			string s;
 			getline(in, s);

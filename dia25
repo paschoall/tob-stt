@@ -1,0 +1,13 @@
+Why * use * ?functional_testing? QUESTION MARK
+What * advantages * ?functional_testing? QUESTION MARK
+What * advantages * ?functional_testing? QUESTION MARK
+
+The functional (or black-box) testing is done without considering the internal structure of the program, hence the testers don't have to have any knowledge of the algorithms or programming languages used. Also, the test cases only depend of the specification of the product, so the generation of the test data and the testing activity can be independent of the implementation of the program.
+
+What information is used in ?functional_testing?
+The functional (or black-box) testing activity requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.
+
+What information is used in ?functional_testing?
+
+What * advantages * ?structural_testing? QUESTION MARK
+What * advantages * ?structural_testing? QUESTION MARK
