@@ -1,953 +1,1253 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
 	<category>
-		<pattern> What is the diference between defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What is the diference between defect and fault</pattern>
+		<template>A fault is a defect in source code, an incorrect step, process, or data definition in computer program. If you're still confused, ask me what a defect is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What the difference between defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What's the difference between defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>Whats the difference between defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What is the difference between defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What are the differences between defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What's the difference of defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>Whats the difference of defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What is the difference of defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of defect and fault QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What are the differences of defect and fault</pattern>
+		<template><srai>What is the diference between defect and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What is the diference between defect and failure</pattern>
+		<template>A defect (or fault) is an incorrect step, process, or data definition in computer program. A defect can lead the program or software to a failure, i.e an incorrect result. Therefore, a failure is a result of the program which is incorrect or not expected.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What the difference between defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What's the difference between defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>Whats the difference between defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What is the difference between defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What are the differences between defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What's the difference of defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>Whats the difference of defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What is the difference of defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of defect and failure QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What are the differences of defect and failure</pattern>
+		<template><srai>What is the diference between defect and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What is the diference between defect and error</pattern>
+		<template>A defect (or fault) is an incorrect step, process, or data definition in computer program, which may lead the program to an error, which is a unexpected state of execution that can cause a program failure. If you're still confused, ask me what a failure is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What the difference between defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What's the difference between defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>Whats the difference between defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What is the difference between defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What are the differences between defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What's the difference of defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>Whats the difference of defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What is the difference of defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of defect and error QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What are the differences of defect and error</pattern>
+		<template><srai>What is the diference between defect and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What is the diference between fault and failure</pattern>
+		<template>A fault (or defect) is an incorrect step, process, or data definition in computer program. A fault can lead the program or software to a failure, i.e an incorrect result. Therefore, a failure is an incorrect or not expected result of the program execution.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What the difference between fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What's the difference between fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>Whats the difference between fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What is the difference between fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What are the differences between fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What's the difference of fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>Whats the difference of fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What is the difference of fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of fault and failure QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What are the differences of fault and failure</pattern>
+		<template><srai>What is the diference between fault and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the diference between fault and error</pattern>
+		<template>A fault (or defect) is an incorrect step, process, or data definition in source code, which may lead the program to an error, which is a unexpected state of execution that can cause a failure. If you're still confused, ask me what an error is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What the difference between fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference between fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference between fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference between fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences between fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference of fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference of fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference of fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of fault and error QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences of fault and error</pattern>
+		<template><srai>What is the diference between fault and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the diference between failure and error</pattern>
+		<template>A failure is a result of the program which is incorrect or not expected. This is caused by an error, which is an unexpected state of program execution, and if this state is propagated to the final state of the program it may lead to an incorrect result, that is a program failure.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What the difference between failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference between failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference between failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference between failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences between failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference of failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference of failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference of failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of failure and error QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences of failure and error</pattern>
+		<template><srai>What is the diference between failure and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What is the diference between fault and defect</pattern>
+		<template>Fault or defect refers to an incorrect step, process, or data definition in computer program.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What the difference between fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What's the difference between fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>Whats the difference between fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What is the difference between fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What are the differences between fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What's the difference of fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>Whats the difference of fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What is the difference of fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of fault and defect QUESTION MARK</pattern>
-		<template> A fault is a defect. A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas a fault is a defect in source code. An incorrect step, process, or data definition in computer program.</template>
+		<pattern>What are the differences of fault and defect</pattern>
+		<template><srai>What is the diference between fault and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What is the diference between failure and defect</pattern>
+		<template>A defect (or fault) is an incorrect step, process, or data definition in computer program. A defect can lead the program or software to a failure, i.e an incorrect result. Therefore, a failure is a result of the program which is incorrect or not expected.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What the difference between failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What's the difference between failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>Whats the difference between failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What is the difference between failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What are the differences between failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What's the difference of failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>Whats the difference of failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What is the difference of failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of failure and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced whereas a failure is an event in which a system or system component does not perform a required function within specified limits.</template>
+		<pattern>What are the differences of failure and defect</pattern>
+		<template><srai>What is the diference between failure and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What is the diference between error and defect</pattern>
+		<template>A defect (or fault) is an incorrect step, process, or data definition in computer program, which may lead the program to an error, which is a unexpected state of execution that can cause a program failure. If you're still confused, ask me what a defect is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What the difference between error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What's the difference between error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>Whats the difference between error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What is the difference between error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What are the differences between error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What's the difference of error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>Whats the difference of error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What is the difference of error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of eror and defect QUESTION MARK</pattern>
-		<template> A defect is an imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs to be either repaired or replaced, whereas an error is a human action that produces an incorrect result.</template>
+		<pattern>What are the differences of error and defect</pattern>
+		<template><srai>What is the diference between error and defect</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What is the diference between failure and fault</pattern>
+		<template>A fault (or defect) is an incorrect step, process, or data definition in computer program. A fault can lead the program or software to a failure, i.e an incorrect result. Therefore, a failure is an incorrect or not expected result of the program execution.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What the difference between failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What's the difference between failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>Whats the difference between failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What is the difference between failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What are the differences between failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What's the difference of failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>Whats the difference of failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What is the difference of failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of failure and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions.</template>
+		<pattern>What are the differences of failure and fault</pattern>
+		<template><srai>What is the diference between failure and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the diference between error and fault</pattern>
+		<template>A fault (or defect) is an incorrect step, process, or data definition in source code, which may lead the program to an error, which is a unexpected state of execution that can cause a failure. If you're still confused, ask me what an error is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What the difference between error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference between error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference between error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference between error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences between error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference of error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference of error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference of error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of error and fault QUESTION MARK</pattern>
-		<template> Fault is a defect in source code. An incorrect step, process, or data definition in computer program, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences of error and fault</pattern>
+		<template><srai>What is the diference between error and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the diference between error and failure</pattern>
+		<template>An error is an unexpected state of program execution that may cause a failure. An error may or may not lead to an incorrect result (or failure). A failure is a result of the program which is incorrect or not expected.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What the difference between error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference between error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference between error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference between error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences between error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What's the difference of error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>Whats the difference of error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What is the difference of error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of error and failure QUESTION MARK</pattern>
-		<template> Failure is an event in which a system or system component does not perform a required function within specified limits. A failure is produced when a fault is encountered by the processor under specified conditions, whereas an error is a human action that produces an incorrect result. A slip or mistake that a person makes. Also called human error.</template>
+		<pattern>What are the differences of error and failure</pattern>
+		<template><srai>What is the diference between error and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What is the diference between mistake and error</pattern>
+		<template>A mistake is a human action that may insert a defect (or fault) into the program. If it does, then this defect can lead to an error. An error is an unexpected state of program execution that may cause a failure. An error may or may not lead to an incorrect result (or failure). If you're still confused, ask me what an error is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What the difference between mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What's the difference between mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>Whats the difference between mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What is the difference between mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What are the differences between mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What's the difference of mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>Whats the difference of mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What is the difference of mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of test set and test case QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What are the differences of mistake and error</pattern>
+		<template><srai>What is the diference between mistake and error</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What is the diference between error and mistake</pattern>
+		<template>A mistake is a human action that may insert a defect (or fault) into the program. If it does, then this defect can lead to an error. An error is an unexpected state of program execution that may cause a failure. An error may or may not lead to an incorrect result (or failure). If you're still confused, ask me what an error is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What the difference between error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What's the difference between error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>Whats the difference between error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What is the difference between error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What are the differences between error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What's the difference of error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>Whats the difference of error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What is the difference of error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of test case and test set QUESTION MARK</pattern>
-		<template> A test set is the group of all test cases used during a testing activity.</template>
+		<pattern>What are the differences of error and mistake</pattern>
+		<template><srai>What is the diference between error and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What is the diference between mistake and fault</pattern>
+		<template>A mistake is a human action that may insert a defect (or fault) into the program. A fault (or defect) is an incorrect step, process, or data definition in computer program. A fault can lead the program or software to a failure, i.e an incorrect result.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What the difference between mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What's the difference between mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>Whats the difference between mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What is the difference between mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What are the differences between mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What's the difference of mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>Whats the difference of mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What is the difference of mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of test data and test case QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What are the differences of mistake and fault</pattern>
+		<template><srai>What is the diference between mistake and fault</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What is the diference between fault and mistake</pattern>
+		<template>A mistake is a human action that may insert a defect (or fault) into the program. A fault (or defect) is an incorrect step, process, or data definition in computer program. A fault can lead the program or software to a failure, i.e an incorrect result.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What the difference between fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What's the difference between fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>Whats the difference between fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What is the difference between fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What are the differences between fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What's the difference of fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>Whats the difference of fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What is the difference of fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of test case and test data QUESTION MARK</pattern>
-		<template> The test data is the input data and the parameters associated with a specific test case.</template>
+		<pattern>What are the differences of fault and mistake</pattern>
+		<template><srai>What is the diference between fault and mistake</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the diference between mistake and failure</pattern>
+		<template>A mistake is the human action that may insert a fault (or fault) into the program. This fault can then cause an error, which can then lead to a failure. A failure is a result of the program which is incorrect or not expected. If you're still confused, ask me what a failure is.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What the difference between mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What's the difference between mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>Whats the difference between mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the difference between mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What are the differences between mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What's the difference of mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>Whats the difference of mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the difference of mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of structural testing and functional testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What are the differences of mistake and failure</pattern>
+		<template><srai>What is the diference between mistake and failure</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the diference between test set and test case</pattern>
+		<template>A test set is the group of all test cases used during a testing activity. A test case is composed by the test input (obtained from input domain of the program), the execution conditions and the expected output to be produced by the program.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What the difference between test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What's the difference between test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>Whats the difference between test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the difference between test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What are the differences between test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What's the difference of test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>Whats the difference of test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the difference of test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of functional testing and structural testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What are the differences of test set and test case</pattern>
+		<template><srai>What is the diference between test set and test case</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the diference between white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the diference between test case and test set</pattern>
+		<template>A test case is composed by the test input (obtained from input domain of the program), the execution conditions and the expected output to be produced by the program. A test set is the group of all test cases used during a testing activity.</template>
 	</category>
 
 	<category>
-		<pattern> What the difference between white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What the difference between test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference between white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What's the difference between test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference between white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>Whats the difference between test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference between white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the difference between test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences between white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What are the differences between test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> What's the difference of white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What's the difference of test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> Whats the difference of white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>Whats the difference of test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the difference of white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What is the difference of test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
 	</category>
 
 	<category>
-		<pattern> What are the differences of white-box testing and black-box testing QUESTION MARK</pattern>
-		<template> Structural testing is a type of testing approach that takes knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing it's outputs and expected ones.</template>
+		<pattern>What are the differences of test case and test set</pattern>
+		<template><srai>What is the diference between test case and test set</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the diference between test data and test case</pattern>
+		<template>The test data is the input data and the parameters associated with a specific test case. A test case is composed by the test input (obtained from input domain of the program), the execution conditions and the expected output to be produced by the program.</template>
+	</category>
+
+	<category>
+		<pattern>What the difference between test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference between test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference between test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference between test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences between test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference of test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference of test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference of test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences of test data and test case</pattern>
+		<template><srai>What is the diference between test data and test case</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the diference between test case and test data</pattern>
+		<template>The test data is the input data and the parameters associated with a specific test case. A test case is composed by the test input (obtained from input domain of the program), the execution conditions and the expected output to be produced by the program.</template>
+	</category>
+
+	<category>
+		<pattern>What the difference between test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference between test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference between test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference between test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences between test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference of test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference of test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference of test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences of test case and test data</pattern>
+		<template><srai>What is the diference between test case and test data</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the diference between structural testing and functional testing</pattern>
+		<template>Structural testing is a technique that uses the knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing its output against the expected output</template>
+	</category>
+
+	<category>
+		<pattern>What the difference between structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference between structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference between structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference between structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences between structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference of structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference of structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference of structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences of structural testing and functional testing</pattern>
+		<template><srai>What is the diference between structural testing and functional testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the diference between functional testing and structural testing</pattern>
+		<template>Structural testing is a technique that uses the knowledge of the internal structure and implementation of the software to produce the test data, whereas functional testing sees the software as a black box, and asserts the correctness of the program simply by comparing its output against the expected output</template>
+	</category>
+
+	<category>
+		<pattern>What the difference between functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference between functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference between functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference between functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences between functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference of functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference of functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference of functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences of functional testing and structural testing</pattern>
+		<template><srai>What is the diference between functional testing and structural testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the diference between white-box testing and black-box testing</pattern>
+		<template>White-box testing or structural testing is a technique that uses the knowledge of the internal structure and implementation of the software to produce the test data, whereas black-box testing or functional testing uses specification information (software requirements) to select data test in order to evaluate the correctness of the program by comparing its output against the expected output.</template>
+	</category>
+
+	<category>
+		<pattern>What the difference between white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference between white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference between white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference between white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences between white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference of white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference of white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference of white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences of white-box testing and black-box testing</pattern>
+		<template><srai>What is the diference between white-box testing and black-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the diference between black-box testing and white-box testing</pattern>
+		<template>White-box testing or structural testing is a technique that uses the knowledge of the internal structure and implementation of the software to produce the test data, whereas black-box testing or functional testing uses specification information (software requirements) to select data test in order to evaluate the correctness of the program by comparing its output against the expected output.</template>
+	</category>
+
+	<category>
+		<pattern>What the difference between black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference between black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference between black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference between black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences between black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What's the difference of black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>Whats the difference of black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What is the difference of black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
+	</category>
+
+	<category>
+		<pattern>What are the differences of black-box testing and white-box testing</pattern>
+		<template><srai>What is the diference between black-box testing and white-box testing</srai></template>
 	</category>
 
 </aiml>

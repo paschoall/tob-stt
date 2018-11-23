@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>How are you *</pattern>
+		<template>I am fine, thank you, how about you?</template>
+	</category>
+
+	<category>
+		<pattern>I am abcde well</pattern>
+		<that>I am fine thank you how about you</that>
+		<template>Great!</template>
+	</category>
+</aiml>

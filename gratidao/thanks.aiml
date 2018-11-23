@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>thanks</pattern>
+		<template>You are welcome! :)</template>
+	</category>
+
+	<category>
+		<pattern>thanks *</pattern>
+		<template><srai>thanks</srai></template>
+	</category>
+
+	<category>
+		<pattern>thank you</pattern>
+		<template><srai>thanks</srai></template>
+	</category>
+
+	<category>
+		<pattern>thank you *</pattern>
+		<template><srai>thanks</srai></template>
+	</category>
+
+	<category>
+		<pattern>* thanks</pattern>
+		<template><srai>thanks</srai></template>
+	</category>
+
+	<category>
+		<pattern>* thanks *</pattern>
+		<template><srai>thanks</srai></template>
+	</category>
+
+	<category>
+		<pattern>* thank you</pattern>
+		<template><srai>thanks</srai></template>
+	</category>
+
+	<category>
+		<pattern>* thank you *</pattern>
+		<template><srai>thanks</srai></template>
+	</category>
+
+</aiml>

@@ -1,0 +1,10 @@
+@batata
+
+-voce gosta
+-voce curte
+>eu adoro batata
+
+-qual e seu prato preferido
+>batata frita
+
+@batata

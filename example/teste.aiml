@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+	<category>
+		<pattern>give me an example of batata</pattern>
+		<template>Batatinha quando nasce, espalharrama pelo chao</template>
+	</category>
+
+	<category>
+		<pattern>give me an example of *</pattern>
+		<template><think><set name = "estrela"> wow </set></think><srai>give me an example of <star/></srai></template>
+	</category>
+
+	<category>
+		<pattern>estrela</pattern>
+		<template><get name = "estrela"/></template>
+	</category>
+
+</aiml>

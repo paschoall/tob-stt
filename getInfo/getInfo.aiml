@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>TOB_STT iniciar conversa</pattern>
+		<template>Hi there! What's your name?</template>
+	</category>
+
+	<category>
+		<pattern>*</pattern>
+		<that>Hi there What s your name </that>
+		<template>Hello <set name="username"> <star/> </set>! Can you tell me your Numero USP?</template>
+	</category>
+
+	<category>
+		<pattern>*</pattern>
+		<that>Hello * Can you tell me your Numero USP</that>
+		<template><think> <set name = "nusp"> <star/> </set> </think> Thank you! What's up? </template>
+	</category>
+
+	<category>
+		<pattern>debug name</pattern>
+		<template><get name="username"/></template>
+	</category>
+
+	<category>
+		<pattern>debug nusp</pattern>
+		<template><get name="nusp"/></template>
+	</category>
+
+</aiml>

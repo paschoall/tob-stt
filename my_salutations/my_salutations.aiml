@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>Nice to meet</pattern>
+		<template>Nice to meet you too!</template>
+	</category>
+
+	<category>
+		<pattern>Nice to meet *</pattern>
+		<template><srai>Nice to meet</srai></template>
+	</category>
+
+	<category>
+		<pattern>How are you doing</pattern>
+		<template><random><li> Im fine, what about you? </li> <li> Great! </li> </random></template>
+	</category>
+
+	<category>
+		<pattern>How are you doing *</pattern>
+		<template><srai>How are you doing</srai></template>
+	</category>
+
+	<category>
+		<pattern>How you doing</pattern>
+		<template><srai>How are you doing</srai></template>
+	</category>
+
+	<category>
+		<pattern>How you doing *</pattern>
+		<template><srai>How are you doing</srai></template>
+	</category>
+
+	<category>
+		<pattern>How are you</pattern>
+		<template><srai>How are you doing</srai></template>
+	</category>
+
+	<category>
+		<pattern>How are you *</pattern>
+		<template><srai>How are you doing</srai></template>
+	</category>
+
+</aiml>

@@ -1,0 +1,325 @@
+		<pattern> Why * use * functional testing criteria QUESTION MARK</pattern>
+		<pattern> Why * use * functional testing technique QUESTION MARK</pattern>
+		<pattern> Why * use * black box testing criteria QUESTION MARK</pattern>
+		<pattern> Why * use * black box testing technique QUESTION MARK</pattern>
+		<pattern> Why * use * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Why * use * black-box testing technique QUESTION MARK</pattern>
+		<pattern> Why * use * functional testing QUESTION MARK</pattern>
+		<pattern> Why * use * black-box testing QUESTION MARK</pattern>
+		<pattern> Why * use * black box testing QUESTION MARK</pattern>
+		<pattern> Why use functional testing criteria QUESTION MARK</pattern>
+		<pattern> Why use functional testing technique QUESTION MARK</pattern>
+		<pattern> Why use black box testing criteria QUESTION MARK</pattern>
+		<pattern> Why use black box testing technique QUESTION MARK</pattern>
+		<pattern> Why use black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Why use black-box testing technique QUESTION MARK</pattern>
+		<pattern> Why use functional testing QUESTION MARK</pattern>
+		<pattern> Why use black-box testing QUESTION MARK</pattern>
+		<pattern> Why use black box testing QUESTION MARK</pattern>
+		<pattern> What * advantages * functional testing criteria QUESTION MARK</pattern>
+		<pattern> What * advantages * functional testing technique QUESTION MARK</pattern>
+		<pattern> What * advantages * black box testing criteria QUESTION MARK</pattern>
+		<pattern> What * advantages * black box testing technique QUESTION MARK</pattern>
+		<pattern> What * advantages * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What * advantages * black-box testing technique QUESTION MARK</pattern>
+		<pattern> What * advantages * functional testing QUESTION MARK</pattern>
+		<pattern> What * advantages * black-box testing QUESTION MARK</pattern>
+		<pattern> What * advantages * black box testing QUESTION MARK</pattern>
+		<pattern> What information is used in functional testing criteria QUESTION MARK</pattern>
+		<pattern> What information is used in functional testing technique QUESTION MARK</pattern>
+		<pattern> What information is used in black box testing criteria QUESTION MARK</pattern>
+		<pattern> What information is used in black box testing technique QUESTION MARK</pattern>
+		<pattern> What information is used in black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What information is used in black-box testing technique QUESTION MARK</pattern>
+		<pattern> What information is used in functional testing QUESTION MARK</pattern>
+		<pattern> What information is used in black-box testing QUESTION MARK</pattern>
+		<pattern> What information is used in black box testing QUESTION MARK</pattern>
+		<pattern> What info is used in functional testing criteria QUESTION MARK</pattern>
+		<pattern> What info is used in functional testing technique QUESTION MARK</pattern>
+		<pattern> What info is used in black box testing criteria QUESTION MARK</pattern>
+		<pattern> What info is used in black box testing technique QUESTION MARK</pattern>
+		<pattern> What info is used in black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What info is used in black-box testing technique QUESTION MARK</pattern>
+		<pattern> What info is used in functional testing QUESTION MARK</pattern>
+		<pattern> What info is used in black-box testing QUESTION MARK</pattern>
+		<pattern> What info is used in black box testing QUESTION MARK</pattern>
+		<pattern> What is the information * functional testing criteria QUESTION MARK</pattern>
+		<pattern> What is the information * functional testing technique QUESTION MARK</pattern>
+		<pattern> What is the information * black box testing criteria QUESTION MARK</pattern>
+		<pattern> What is the information * black box testing technique QUESTION MARK</pattern>
+		<pattern> What is the information * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What is the information * black-box testing technique QUESTION MARK</pattern>
+		<pattern> What is the information * functional testing QUESTION MARK</pattern>
+		<pattern> What is the information * black-box testing QUESTION MARK</pattern>
+		<pattern> What is the information * black box testing QUESTION MARK</pattern>
+		<pattern> What is the info * functional testing criteria QUESTION MARK</pattern>
+		<pattern> What is the info * functional testing technique QUESTION MARK</pattern>
+		<pattern> What is the info * black box testing criteria QUESTION MARK</pattern>
+		<pattern> What is the info * black box testing technique QUESTION MARK</pattern>
+		<pattern> What is the info * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What is the info * black-box testing technique QUESTION MARK</pattern>
+		<pattern> What is the info * functional testing QUESTION MARK</pattern>
+		<pattern> What is the info * black-box testing QUESTION MARK</pattern>
+		<pattern> What is the info * black box testing QUESTION MARK</pattern>
+		<pattern> What is the input of functional testing criteria QUESTION MARK</pattern>
+		<pattern> What is the input of functional testing technique QUESTION MARK</pattern>
+		<pattern> What is the input of black box testing criteria QUESTION MARK</pattern>
+		<pattern> What is the input of black box testing technique QUESTION MARK</pattern>
+		<pattern> What is the input of black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What is the input of black-box testing technique QUESTION MARK</pattern>
+		<pattern> What is the input of functional testing QUESTION MARK</pattern>
+		<pattern> What is the input of black-box testing QUESTION MARK</pattern>
+		<pattern> What is the input of black box testing QUESTION MARK</pattern>
+		<pattern> What * techniques * use * functional testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * use * functional testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * use * black box testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * use * black box testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * use * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * use * black-box testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * use * functional testing QUESTION MARK</pattern>
+		<pattern> What * techniques * use * black-box testing QUESTION MARK</pattern>
+		<pattern> What * techniques * use * black box testing QUESTION MARK</pattern>
+		<pattern> What * criteria * use * functional testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * use * functional testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * use * black box testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * use * black box testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * use * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * use * black-box testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * use * functional testing QUESTION MARK</pattern>
+		<pattern> What * criteria * use * black-box testing QUESTION MARK</pattern>
+		<pattern> What * criteria * use * black box testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * functional testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * functional testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * black box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * black box testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * black-box testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * functional testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * black-box testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * use * black box testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * functional testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * functional testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * black box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * black box testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * black-box testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * functional testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * black-box testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * use * black box testing QUESTION MARK</pattern>
+		<pattern> What * techniques * used * functional testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * used * functional testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * used * black box testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * used * black box testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * used * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * used * black-box testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * used * functional testing QUESTION MARK</pattern>
+		<pattern> What * techniques * used * black-box testing QUESTION MARK</pattern>
+		<pattern> What * techniques * used * black box testing QUESTION MARK</pattern>
+		<pattern> What * criteria * used * functional testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * used * functional testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * used * black box testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * used * black box testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * used * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * used * black-box testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * used * functional testing QUESTION MARK</pattern>
+		<pattern> What * criteria * used * black-box testing QUESTION MARK</pattern>
+		<pattern> What * criteria * used * black box testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * functional testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * functional testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * black box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * black box testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * black-box testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * functional testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * black-box testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * used * black box testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * functional testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * functional testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * black box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * black box testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * black-box testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * functional testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * black-box testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * used * black box testing QUESTION MARK</pattern>
+		<pattern> What * techniques * of functional testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * of functional testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * of black box testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * of black box testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * of black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What * techniques * of black-box testing technique QUESTION MARK</pattern>
+		<pattern> What * techniques * of functional testing QUESTION MARK</pattern>
+		<pattern> What * techniques * of black-box testing QUESTION MARK</pattern>
+		<pattern> What * techniques * of black box testing QUESTION MARK</pattern>
+		<pattern> What * criteria * of functional testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * of functional testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * of black box testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * of black box testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * of black-box testing criteria QUESTION MARK</pattern>
+		<pattern> What * criteria * of black-box testing technique QUESTION MARK</pattern>
+		<pattern> What * criteria * of functional testing QUESTION MARK</pattern>
+		<pattern> What * criteria * of black-box testing QUESTION MARK</pattern>
+		<pattern> What * criteria * of black box testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * of functional testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * of functional testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * of black box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * of black box testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * of black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * techniques * of black-box testing technique QUESTION MARK</pattern>
+		<pattern> Which * techniques * of functional testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * of black-box testing QUESTION MARK</pattern>
+		<pattern> Which * techniques * of black box testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * of functional testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * of functional testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * of black box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * of black box testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * of black-box testing criteria QUESTION MARK</pattern>
+		<pattern> Which * criteria * of black-box testing technique QUESTION MARK</pattern>
+		<pattern> Which * criteria * of functional testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * of black-box testing QUESTION MARK</pattern>
+		<pattern> Which * criteria * of black box testing QUESTION MARK</pattern>
+		<pattern> How * use functional testing criteria QUESTION MARK</pattern>
+		<pattern> How * use functional testing technique QUESTION MARK</pattern>
+		<pattern> How * use black box testing criteria QUESTION MARK</pattern>
+		<pattern> How * use black box testing technique QUESTION MARK</pattern>
+		<pattern> How * use black-box testing criteria QUESTION MARK</pattern>
+		<pattern> How * use black-box testing technique QUESTION MARK</pattern>
+		<pattern> How * use functional testing QUESTION MARK</pattern>
+		<pattern> How * use black-box testing QUESTION MARK</pattern>
+		<pattern> How * use black box testing QUESTION MARK</pattern>
+		<pattern> How * apply functional testing criteria QUESTION MARK</pattern>
+		<pattern> How * apply functional testing technique QUESTION MARK</pattern>
+		<pattern> How * apply black box testing criteria QUESTION MARK</pattern>
+		<pattern> How * apply black box testing technique QUESTION MARK</pattern>
+		<pattern> How * apply black-box testing criteria QUESTION MARK</pattern>
+		<pattern> How * apply black-box testing technique QUESTION MARK</pattern>
+		<pattern> How * apply functional testing QUESTION MARK</pattern>
+		<pattern> How * apply black-box testing QUESTION MARK</pattern>
+		<pattern> How * apply black box testing QUESTION MARK</pattern>
+		<pattern> How functional testing criteria is used QUESTION MARK</pattern>
+		<pattern> How functional testing technique is used QUESTION MARK</pattern>
+		<pattern> How black box testing criteria is used QUESTION MARK</pattern>
+		<pattern> How black box testing technique is used QUESTION MARK</pattern>
+		<pattern> How black-box testing criteria is used QUESTION MARK</pattern>
+		<pattern> How black-box testing technique is used QUESTION MARK</pattern>
+		<pattern> How functional testing is used QUESTION MARK</pattern>
+		<pattern> How black-box testing is used QUESTION MARK</pattern>
+		<pattern> How black box testing is used QUESTION MARK</pattern>
+		<pattern> How functional testing criteria is applied QUESTION MARK</pattern>
+		<pattern> How functional testing technique is applied QUESTION MARK</pattern>
+		<pattern> How black box testing criteria is applied QUESTION MARK</pattern>
+		<pattern> How black box testing technique is applied QUESTION MARK</pattern>
+		<pattern> How black-box testing criteria is applied QUESTION MARK</pattern>
+		<pattern> How black-box testing technique is applied QUESTION MARK</pattern>
+		<pattern> How functional testing is applied QUESTION MARK</pattern>
+		<pattern> How black-box testing is applied QUESTION MARK</pattern>
+		<pattern> How black box testing is applied QUESTION MARK</pattern>
+		<pattern> How * use equivalence partitioning QUESTION MARK</pattern>
+		<pattern> How * use equivalence classes partitioning QUESTION MARK</pattern>
+		<pattern> How * use equivalence class partitioning QUESTION MARK</pattern>
+		<pattern> How * use equivalence partitioning criteria QUESTION MARK</pattern>
+		<pattern> How * use equivalence classes partitioning criteria QUESTION MARK</pattern>
+		<pattern> How * use equivalence class partitioning criteria QUESTION MARK</pattern>
+		<pattern> How * use equivalence partitioning technique QUESTION MARK</pattern>
+		<pattern> How * use equivalence classes partitioning technique QUESTION MARK</pattern>
+		<pattern> How * use equivalence class partitioning technique QUESTION MARK</pattern>
+		<pattern> How * apply equivalence partitioning QUESTION MARK</pattern>
+		<pattern> How * apply equivalence classes partitioning QUESTION MARK</pattern>
+		<pattern> How * apply equivalence class partitioning QUESTION MARK</pattern>
+		<pattern> How * apply equivalence partitioning criteria QUESTION MARK</pattern>
+		<pattern> How * apply equivalence classes partitioning criteria QUESTION MARK</pattern>
+		<pattern> How * apply equivalence class partitioning criteria QUESTION MARK</pattern>
+		<pattern> How * apply equivalence partitioning technique QUESTION MARK</pattern>
+		<pattern> How * apply equivalence classes partitioning technique QUESTION MARK</pattern>
+		<pattern> How * apply equivalence class partitioning technique QUESTION MARK</pattern>
+		<pattern> How equivalence partitioning is used QUESTION MARK</pattern>
+		<pattern> How equivalence classes partitioning is used QUESTION MARK</pattern>
+		<pattern> How equivalence class partitioning is used QUESTION MARK</pattern>
+		<pattern> How equivalence partitioning criteria is used QUESTION MARK</pattern>
+		<pattern> How equivalence classes partitioning criteria is used QUESTION MARK</pattern>
+		<pattern> How equivalence class partitioning criteria is used QUESTION MARK</pattern>
+		<pattern> How equivalence partitioning technique is used QUESTION MARK</pattern>
+		<pattern> How equivalence classes partitioning technique is used QUESTION MARK</pattern>
+		<pattern> How equivalence class partitioning technique is used QUESTION MARK</pattern>
+		<pattern> How equivalence partitioning is applied QUESTION MARK</pattern>
+		<pattern> How equivalence classes partitioning is applied QUESTION MARK</pattern>
+		<pattern> How equivalence class partitioning is applied QUESTION MARK</pattern>
+		<pattern> How equivalence partitioning criteria is applied QUESTION MARK</pattern>
+		<pattern> How equivalence classes partitioning criteria is applied QUESTION MARK</pattern>
+		<pattern> How equivalence class partitioning criteria is applied QUESTION MARK</pattern>
+		<pattern> How equivalence partitioning technique is applied QUESTION MARK</pattern>
+		<pattern> How equivalence classes partitioning technique is applied QUESTION MARK</pattern>
+		<pattern> How equivalence class partitioning technique is applied QUESTION MARK</pattern>
+		<pattern> How * use boundary value analysis technique QUESTION MARK</pattern>
+		<pattern> How * use boundary value analisis technique QUESTION MARK</pattern>
+		<pattern> How * use boundary-value analysis technique QUESTION MARK</pattern>
+		<pattern> How * use boundary-value analisis technique QUESTION MARK</pattern>
+		<pattern> How * use boundary value analysis criteria QUESTION MARK</pattern>
+		<pattern> How * use boundary-value analysis criteria QUESTION MARK</pattern>
+		<pattern> How * use boundary value analisis criteria QUESTION MARK</pattern>
+		<pattern> How * use boundary-value analisis criteria QUESTION MARK</pattern>
+		<pattern> How * use boundary value analysis QUESTION MARK</pattern>
+		<pattern> How * use boundary-value analysis QUESTION MARK</pattern>
+		<pattern> How * use boundary value analisis QUESTION MARK</pattern>
+		<pattern> How * use boundary-value analisis QUESTION MARK</pattern>
+		<pattern> How * apply boundary value analysis technique QUESTION MARK</pattern>
+		<pattern> How * apply boundary value analisis technique QUESTION MARK</pattern>
+		<pattern> How * apply boundary-value analysis technique QUESTION MARK</pattern>
+		<pattern> How * apply boundary-value analisis technique QUESTION MARK</pattern>
+		<pattern> How * apply boundary value analysis criteria QUESTION MARK</pattern>
+		<pattern> How * apply boundary-value analysis criteria QUESTION MARK</pattern>
+		<pattern> How * apply boundary value analisis criteria QUESTION MARK</pattern>
+		<pattern> How * apply boundary-value analisis criteria QUESTION MARK</pattern>
+		<pattern> How * apply boundary value analysis QUESTION MARK</pattern>
+		<pattern> How * apply boundary-value analysis QUESTION MARK</pattern>
+		<pattern> How * apply boundary value analisis QUESTION MARK</pattern>
+		<pattern> How * apply boundary-value analisis QUESTION MARK</pattern>
+		<pattern> How boundary value analysis technique is used QUESTION MARK</pattern>
+		<pattern> How boundary value analisis technique is used QUESTION MARK</pattern>
+		<pattern> How boundary-value analysis technique is used QUESTION MARK</pattern>
+		<pattern> How boundary-value analisis technique is used QUESTION MARK</pattern>
+		<pattern> How boundary value analysis criteria is used QUESTION MARK</pattern>
+		<pattern> How boundary-value analysis criteria is used QUESTION MARK</pattern>
+		<pattern> How boundary value analisis criteria is used QUESTION MARK</pattern>
+		<pattern> How boundary-value analisis criteria is used QUESTION MARK</pattern>
+		<pattern> How boundary value analysis is used QUESTION MARK</pattern>
+		<pattern> How boundary-value analysis is used QUESTION MARK</pattern>
+		<pattern> How boundary value analisis is used QUESTION MARK</pattern>
+		<pattern> How boundary-value analisis is used QUESTION MARK</pattern>
+		<pattern> How boundary value analysis technique is applied QUESTION MARK</pattern>
+		<pattern> How boundary value analisis technique is applied QUESTION MARK</pattern>
+		<pattern> How boundary-value analysis technique is applied QUESTION MARK</pattern>
+		<pattern> How boundary-value analisis technique is applied QUESTION MARK</pattern>
+		<pattern> How boundary value analysis criteria is applied QUESTION MARK</pattern>
+		<pattern> How boundary-value analysis criteria is applied QUESTION MARK</pattern>
+		<pattern> How boundary value analisis criteria is applied QUESTION MARK</pattern>
+		<pattern> How boundary-value analisis criteria is applied QUESTION MARK</pattern>
+		<pattern> How boundary value analysis is applied QUESTION MARK</pattern>
+		<pattern> How boundary-value analysis is applied QUESTION MARK</pattern>
+		<pattern> How boundary value analisis is applied QUESTION MARK</pattern>
+		<pattern> How boundary-value analisis is applied QUESTION MARK</pattern>
+		<pattern> How * use cause-effect graph QUESTION MARK</pattern>
+		<pattern> How * use cause effect graph QUESTION MARK</pattern>
+		<pattern> How * use cause-effect graph technique QUESTION MARK</pattern>
+		<pattern> How * use cause effect graph technique QUESTION MARK</pattern>
+		<pattern> How * use cause-effect graph criteria QUESTION MARK</pattern>
+		<pattern> How * use cause effect graph criteria QUESTION MARK</pattern>
+		<pattern> How * apply cause-effect graph QUESTION MARK</pattern>
+		<pattern> How * apply cause effect graph QUESTION MARK</pattern>
+		<pattern> How * apply cause-effect graph technique QUESTION MARK</pattern>
+		<pattern> How * apply cause effect graph technique QUESTION MARK</pattern>
+		<pattern> How * apply cause-effect graph criteria QUESTION MARK</pattern>
+		<pattern> How * apply cause effect graph criteria QUESTION MARK</pattern>
+		<pattern> How cause-effect graph is used QUESTION MARK</pattern>
+		<pattern> How cause effect graph is used QUESTION MARK</pattern>
+		<pattern> How cause-effect graph technique is used QUESTION MARK</pattern>
+		<pattern> How cause effect graph technique is used QUESTION MARK</pattern>
+		<pattern> How cause-effect graph criteria is used QUESTION MARK</pattern>
+		<pattern> How cause effect graph criteria is used QUESTION MARK</pattern>
+		<pattern> How cause-effect graph is applied QUESTION MARK</pattern>
+		<pattern> How cause effect graph is applied QUESTION MARK</pattern>
+		<pattern> How cause-effect graph technique is applied QUESTION MARK</pattern>
+		<pattern> How cause effect graph technique is applied QUESTION MARK</pattern>
+		<pattern> How cause-effect graph criteria is applied QUESTION MARK</pattern>
+		<pattern> How cause effect graph criteria is applied QUESTION MARK</pattern>
+		<pattern> How * generate a test case QUESTION MARK</pattern>

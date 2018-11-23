@@ -1,0 +1,3 @@
+se o usuario perguntar "fale outro exemplo", jogar outro exemplo sobre o assunto perguntado na mensagem anterior
+
+ler o material 

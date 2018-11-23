@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>Can I ask you something</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Can I ask you something *</pattern>
+		<template><srai>Can I ask you something</srai></template>
+	</category>
+
+	<category>
+		<pattern>Could I ask you something</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Could I ask you something *</pattern>
+		<template><srai>Could I ask you something</srai></template>
+	</category>
+
+	<category>
+		<pattern>Can you give me a help</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Can you give me a help *</pattern>
+		<template><srai>Can you give me a help</srai></template>
+	</category>
+
+	<category>
+		<pattern>Could you give me a help</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Could you give me a help *</pattern>
+		<template><srai>Could you give me a help</srai></template>
+	</category>
+
+	<category>
+		<pattern>Can you help me</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Can you help me *</pattern>
+		<template><srai>Can you help me</srai></template>
+	</category>
+
+	<category>
+		<pattern>Could you help me</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Could you help me *</pattern>
+		<template><srai>Could you help me</srai></template>
+	</category>
+
+	<category>
+		<pattern>Can you answer</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Can you answer *</pattern>
+		<template><srai>Can you answer</srai></template>
+	</category>
+
+	<category>
+		<pattern>Could you answer</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Could you answer *</pattern>
+		<template><srai>Could you answer</srai></template>
+	</category>
+
+	<category>
+		<pattern>I have a question</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>I have a question *</pattern>
+		<template><srai>I have a question</srai></template>
+	</category>
+
+	<category>
+		<pattern>I have a doubt</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>I have a doubt *</pattern>
+		<template><srai>I have a doubt</srai></template>
+	</category>
+
+	<category>
+		<pattern>Help me</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Help me *</pattern>
+		<template><srai>Help me</srai></template>
+	</category>
+
+	<category>
+		<pattern>Would you give me a help</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Would you give me a help *</pattern>
+		<template><srai>Would you give me a help</srai></template>
+	</category>
+
+	<category>
+		<pattern>Would you help me</pattern>
+		<template>Ok, tell me. What is your question?</template>
+	</category>
+
+	<category>
+		<pattern>Would you help me *</pattern>
+		<template><srai>Would you help me</srai></template>
+	</category>
+
+</aiml>

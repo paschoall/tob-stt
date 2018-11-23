@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<topic name = "batata">
+		<category>
+			<pattern>voce gosta</pattern>
+			<template>eu adoro batata</template>
+		</category>
+	
+		<category>
+			<pattern>voce curte</pattern>
+			<template><srai>voce gosta</srai></template>
+		</category>
+	
+		<category>
+			<pattern>qual e seu prato preferido</pattern>
+			<template>batata frita</template>
+		</category>
+	
+		<category><pattern>*</pattern><template><srai><star/></srai></template></category>
+	</topic>
+</aiml>

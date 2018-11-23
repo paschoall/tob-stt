@@ -1,1628 +1,1598 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
 	<category>
-		<pattern> Why * use * functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing is done without considering the internal structure of the program, hence the testers don't have to have any knowledge of the algorithms or programming languages used. Also, the test cases only depend of the specification of the product, so the generation of the test data and the testing activity can be independent of the implementation of the program.</template>
+		<pattern>Why use functional testing criteria</pattern>
+		<template>The functional (or black-box) testing is done without considering the internal structure of the program, hence the testers don't have to have any knowledge of the algorithms or programming languages used. Also, the test cases only depend of the specification of the product, so the generation of the test data and the testing activity can be independent of the implementation of the program and can be applied without having an executable version of the code.</template>
 	</category>
 
 	<category>
-		<pattern> Why * use * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use functional testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why * use * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use black box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why * use * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use black box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why * use * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use black-box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why * use * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use black-box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why * use * functional testing QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use functional testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why * use * black-box testing QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use black-box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why * use * black box testing QUESTION MARK</pattern>
-		<template> <srai>Why * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use black box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing is done without considering the internal structure of the program, hence the testers don't have to have any knowledge of the algorithms or programming languages used. Also, the test cases only depend of the specification of the product, so the generation of the test data and the testing activity can be independent of the implementation of the program.</template>
+		<pattern>Why use * functional testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * functional testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * black box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * black box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * black-box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * black-box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use functional testing QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * functional testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use black-box testing QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * black-box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Why use black box testing QUESTION MARK</pattern>
-		<template> <srai>Why use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why use * black box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing is done without considering the internal structure of the program, hence the testers don't have to have any knowledge of the algorithms or programming languages used. Also, the test cases only depend of the specification of the product, so the generation of the test data and the testing activity can be independent of the implementation of the program.</template>
+		<pattern>Why * use functional testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use functional testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use black box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use black box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use black-box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use black-box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * functional testing QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use functional testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * black-box testing QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use black-box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * advantages * black box testing QUESTION MARK</pattern>
-		<template> <srai>What * advantages * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use black box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing activity requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.</template>
+		<pattern>Why * use * functional testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * functional testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * black box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * black box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * black-box testing criteria</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * black-box testing technique</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in functional testing QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * functional testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in black-box testing QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * black-box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What information is used in black box testing QUESTION MARK</pattern>
-		<template> <srai>What information is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Why * use * black box testing</pattern>
+		<template><srai>Why use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing activity requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.</template>
+		<pattern>What * advantages * functional testing criteria</pattern>
+		<template><srai> Why use functional testing </srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * functional testing technique</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * black box testing criteria</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * black box testing technique</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * black-box testing criteria</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * black-box testing technique</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in functional testing QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * functional testing</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in black-box testing QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * black-box testing</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What info is used in black box testing QUESTION MARK</pattern>
-		<template> <srai>What info is used in functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * advantages * black box testing</pattern>
+		<template><srai>What * advantages * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing activity requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.</template>
+		<pattern>What information is used in functional testing criteria</pattern>
+		<template>The functional (or black-box) testing requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.</template>
 	</category>
 
 	<category>
-		<pattern> What is the information * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in functional testing technique</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in black box testing criteria</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in black box testing technique</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in black-box testing criteria</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in black-box testing technique</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * functional testing QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in functional testing</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * black-box testing QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in black-box testing</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the information * black box testing QUESTION MARK</pattern>
-		<template> <srai>What is the information * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What information is used in black box testing</pattern>
+		<template><srai>What information is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing activity requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.</template>
+		<pattern>What info is used in functional testing criteria</pattern>
+		<template><srai> What information is used in functional testing </srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in functional testing technique</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in black box testing criteria</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in black box testing technique</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in black-box testing criteria</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in black-box testing technique</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * functional testing QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in functional testing</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * black-box testing QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in black-box testing</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the info * black box testing QUESTION MARK</pattern>
-		<template> <srai>What is the info * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What info is used in black box testing</pattern>
+		<template><srai>What info is used in functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of functional testing criteria QUESTION MARK</pattern>
-		<template> The functional (or black-box) testing activity requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.</template>
+		<pattern>What is the information * functional testing criteria</pattern>
+		<template><srai> What are the advantages of functional testing </srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * functional testing technique</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * black box testing criteria</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * black box testing technique</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * black-box testing criteria</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * black-box testing technique</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of functional testing QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * functional testing</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of black-box testing QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * black-box testing</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What is the input of black box testing QUESTION MARK</pattern>
-		<template> <srai>What is the input of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the information * black box testing</pattern>
+		<template><srai>What is the information * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * functional testing criteria QUESTION MARK</pattern>
-		<template> The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>What is the info * functional testing criteria</pattern>
+		<template><srai> What are the advantages of functional testing </srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * functional testing technique</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * black box testing criteria</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * black box testing technique</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * black-box testing criteria</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * black-box testing technique</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * functional testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * functional testing</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * black-box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * black-box testing</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * use * black box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the info * black box testing</pattern>
+		<template><srai>What is the info * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * functional testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of functional testing criteria</pattern>
+		<template>The functional (or black-box) testing requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.</template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of functional testing technique</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of black box testing criteria</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of black box testing technique</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of black-box testing criteria</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of black-box testing technique</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * functional testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of functional testing</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * black-box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of black-box testing</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * use * black box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What is the input of black box testing</pattern>
+		<template><srai>What is the input of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * functional testing criteria QUESTION MARK</pattern>
-		<template> The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>What * techniques * use * functional testing criteria</pattern>
+		<template>The most common criteria used in functional testing are equivalence partitioning and boundary-value analysis.</template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * functional testing technique</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * black box testing criteria</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * black box testing technique</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * black-box testing criteria</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * black-box testing technique</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * functional testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * functional testing</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * black-box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * black-box testing</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * use * black box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * use * black box testing</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * functional testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * functional testing criteria</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * functional testing technique</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * black box testing criteria</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * black box testing technique</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * black-box testing criteria</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * black-box testing technique</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * functional testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * functional testing</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * black-box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * black-box testing</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * use * black box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * use * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * use * black box testing</pattern>
+		<template><srai>What * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * functional testing criteria QUESTION MARK</pattern>
-		<template> The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>Which * techniques * use * functional testing criteria</pattern>
+		<template><srai>What are the techniques we use in functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * functional testing technique</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * black box testing criteria</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * black box testing technique</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * black-box testing criteria</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * black-box testing technique</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * functional testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * functional testing</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * black-box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * black-box testing</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * used * black box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * use * black box testing</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * functional testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * functional testing criteria</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * functional testing technique</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * black box testing criteria</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * black box testing technique</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * black-box testing criteria</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * black-box testing technique</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * functional testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * functional testing</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * black-box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * black-box testing</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * used * black box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * use * black box testing</pattern>
+		<template><srai>Which * techniques * use * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * functional testing criteria QUESTION MARK</pattern>
-		<template> The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>What * techniques * used * functional testing criteria</pattern>
+		<template><srai>What are the techniques we use in functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * functional testing technique</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * black box testing criteria</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * black box testing technique</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * black-box testing criteria</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * black-box testing technique</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * functional testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * functional testing</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * black-box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * black-box testing</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * used * black box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * used * black box testing</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * functional testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * functional testing criteria</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * functional testing technique</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * black box testing criteria</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * black box testing technique</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * black-box testing criteria</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * black-box testing technique</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * functional testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * functional testing</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * black-box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * black-box testing</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * used * black box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * used * functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * used * black box testing</pattern>
+		<template><srai>What * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of functional testing criteria QUESTION MARK</pattern>
-		<template> The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>Which * techniques * used * functional testing criteria</pattern>
+		<template><srai>What are the techniques we use in functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * functional testing technique</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * black box testing criteria</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * black box testing technique</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * black-box testing criteria</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * black-box testing technique</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of functional testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * functional testing</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of black-box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * black-box testing</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * techniques * of black box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * used * black box testing</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of functional testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * functional testing criteria</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of functional testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * functional testing technique</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * black box testing criteria</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of black box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * black box testing technique</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * black-box testing criteria</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * black-box testing technique</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of functional testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * functional testing</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of black-box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * black-box testing</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> What * criteria * of black box testing QUESTION MARK</pattern>
-		<template> <srai>What * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * used * black box testing</pattern>
+		<template><srai>Which * techniques * used * functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of functional testing criteria QUESTION MARK</pattern>
-		<template> The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>What * techniques * of functional testing criteria</pattern>
+		<template><srai>What are the techniques we use in functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of functional testing technique</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of black box testing criteria</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of black box testing technique</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of black-box testing criteria</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of black-box testing technique</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of functional testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of functional testing</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of black-box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of black-box testing</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * techniques * of black box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * techniques * of black box testing</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of functional testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of functional testing criteria</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of functional testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of functional testing technique</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of black box testing criteria</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of black box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of black box testing technique</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of black-box testing criteria</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of black-box testing technique</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of functional testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of functional testing</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of black-box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of black-box testing</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> Which * criteria * of black box testing QUESTION MARK</pattern>
-		<template> <srai>Which * techniques * of functional testing criteria QUESTION MARK</srai></template>
+		<pattern>What * criteria * of black box testing</pattern>
+		<template><srai>What * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use functional testing criteria QUESTION MARK</pattern>
-		<template> It depends of the criteria or technique used. The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>Which * techniques * of functional testing criteria</pattern>
+		<template><srai>What are the techniques we use in functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use functional testing technique QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of functional testing technique</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of black box testing criteria</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use black box testing technique QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of black box testing technique</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of black-box testing criteria</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of black-box testing technique</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use functional testing QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of functional testing</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use black-box testing QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of black-box testing</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use black box testing QUESTION MARK</pattern>
-		<template> <srai>How * use functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * techniques * of black box testing</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply functional testing criteria QUESTION MARK</pattern>
-		<template> It depends of the criteria or technique used. The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>Which * criteria * of functional testing criteria</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply functional testing technique QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of functional testing technique</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply black box testing criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of black box testing criteria</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply black box testing technique QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of black box testing technique</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply black-box testing criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of black-box testing criteria</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply black-box testing technique QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of black-box testing technique</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply functional testing QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of functional testing</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply black-box testing QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of black-box testing</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply black box testing QUESTION MARK</pattern>
-		<template> <srai>How * apply functional testing criteria QUESTION MARK</srai></template>
+		<pattern>Which * criteria * of black box testing</pattern>
+		<template><srai>Which * techniques * of functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How functional testing criteria is used QUESTION MARK</pattern>
-		<template> It depends of the criteria or technique used. The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>How * use functional testing criteria</pattern>
+		<template>It depends of the functional testing criterion used. The most common criteria used in functional testing are equivalence partitioning and boundary-value analysis. Please, ask me how to use equivalence partitioning criterion and/or boundary-value analysis criterion.</template>
 	</category>
 
 	<category>
-		<pattern> How functional testing technique is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use functional testing technique</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black box testing criteria is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use black box testing criteria</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black box testing technique is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use black box testing technique</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black-box testing criteria is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use black-box testing criteria</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black-box testing technique is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use black-box testing technique</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How functional testing is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use functional testing</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black-box testing is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use black-box testing</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black box testing is used QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is used QUESTION MARK</srai></template>
+		<pattern>How * use black box testing</pattern>
+		<template><srai>How * use functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How functional testing criteria is applied QUESTION MARK</pattern>
-		<template> It depends of the criteria or technique used. The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.</template>
+		<pattern>How * apply functional testing criteria</pattern>
+		<template><srai>How to use functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> How functional testing technique is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply functional testing technique</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black box testing criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply black box testing criteria</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black box testing technique is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply black box testing technique</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black-box testing criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply black-box testing criteria</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black-box testing technique is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply black-box testing technique</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How functional testing is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply functional testing</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black-box testing is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply black-box testing</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How black box testing is applied QUESTION MARK</pattern>
-		<template> <srai>How functional testing criteria is applied QUESTION MARK</srai></template>
+		<pattern>How * apply black box testing</pattern>
+		<template><srai>How * apply functional testing criteria</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence partitioning QUESTION MARK</pattern>
-		<template> The equivalence partitioning is done dividing the input set in several subsets with no intersecction (i.e. a partition) and creating a test case for each representative of the subsets. For example, you can separate invalid and valid inputs into two different subsets.</template>
+		<pattern>How functional testing criteria is used</pattern>
+		<template><srai>How to use functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence classes partitioning QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How functional testing technique is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence class partitioning QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black box testing criteria is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence partitioning criteria QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black box testing technique is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence classes partitioning criteria QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black-box testing criteria is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence class partitioning criteria QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black-box testing technique is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence partitioning technique QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How functional testing is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence classes partitioning technique QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black-box testing is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use equivalence class partitioning technique QUESTION MARK</pattern>
-		<template> <srai>How * use equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black box testing is used</pattern>
+		<template><srai>How functional testing criteria is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence partitioning QUESTION MARK</pattern>
-		<template> The equivalence partitioning is done dividing the input set in several subsets with no intersecction (i.e. a partition) and creating a test case for each representative of the subsets. For example, you can separate invalid and valid inputs into two different subsets.</template>
+		<pattern>How functional testing criteria is applied</pattern>
+		<template><srai>How to use functional testing</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence classes partitioning QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How functional testing technique is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence class partitioning QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black box testing criteria is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence partitioning criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black box testing technique is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence classes partitioning criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black-box testing criteria is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence class partitioning criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black-box testing technique is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence partitioning technique QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How functional testing is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence classes partitioning technique QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black-box testing is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply equivalence class partitioning technique QUESTION MARK</pattern>
-		<template> <srai>How * apply equivalence partitioning QUESTION MARK</srai></template>
+		<pattern>How black box testing is applied</pattern>
+		<template><srai>How functional testing criteria is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence partitioning is used QUESTION MARK</pattern>
-		<template> The equivalence partitioning is done dividing the input set in several subsets with no intersecction (i.e. a partition) and creating a test case for each representative of the subsets. For example, you can separate invalid and valid inputs into two different subsets.</template>
+		<pattern>How * use equivalence partitioning</pattern>
+		<template>The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes.  For example, you can separate invalid and valid inputs into two different subsets or classes.</template>
 	</category>
 
 	<category>
-		<pattern> How equivalence classes partitioning is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence classes partitioning</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence class partitioning is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence class partitioning</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence partitioning criteria is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence partitioning criteria</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence classes partitioning criteria is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence classes partitioning criteria</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence class partitioning criteria is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence class partitioning criteria</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence partitioning technique is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence partitioning technique</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence classes partitioning technique is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence classes partitioning technique</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence class partitioning technique is used QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is used QUESTION MARK</srai></template>
+		<pattern>How * use equivalence class partitioning technique</pattern>
+		<template><srai>How * use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence partitioning is applied QUESTION MARK</pattern>
-		<template> The equivalence partitioning is done dividing the input set in several subsets with no intersecction (i.e. a partition) and creating a test case for each representative of the subsets. For example, you can separate invalid and valid inputs into two different subsets.</template>
+		<pattern>How * apply equivalence partitioning</pattern>
+		<template><srai>How to use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence classes partitioning is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence classes partitioning</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence class partitioning is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence class partitioning</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence partitioning criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence partitioning criteria</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence classes partitioning criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence classes partitioning criteria</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence class partitioning criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence class partitioning criteria</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence partitioning technique is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence partitioning technique</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence classes partitioning technique is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence classes partitioning technique</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How equivalence class partitioning technique is applied QUESTION MARK</pattern>
-		<template> <srai>How equivalence partitioning is applied QUESTION MARK</srai></template>
+		<pattern>How * apply equivalence class partitioning technique</pattern>
+		<template><srai>How * apply equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary value analysis technique QUESTION MARK</pattern>
-		<template> The boundary-value analysis determines the boundaries for input values and selects the extremes of the boundary to use in a test case. For instance, if a program's valid input set are non negative numbers less not greater than 10, then one test case would use input 0 and another input 10.</template>
+		<pattern>How equivalence partitioning is used</pattern>
+		<template><srai>How to use equivalence partitioning</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary value analisis technique QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence classes partitioning is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary-value analysis technique QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence class partitioning is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary-value analisis technique QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence partitioning criteria is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary value analysis criteria QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence classes partitioning criteria is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary-value analysis criteria QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence class partitioning criteria is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary value analisis criteria QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence partitioning technique is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary-value analisis criteria QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence classes partitioning technique is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary value analysis QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence class partitioning technique is used</pattern>
+		<template><srai>How equivalence partitioning is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary-value analysis QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence partitioning is applied</pattern>
+		<template>The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes.  For example, you can separate invalid and valid inputs into two different subsets or classes.</template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary value analisis QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence classes partitioning is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use boundary-value analisis QUESTION MARK</pattern>
-		<template> <srai>How * use boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence class partitioning is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary value analysis technique QUESTION MARK</pattern>
-		<template> The boundary-value analysis determines the boundaries for input values and selects the extremes of the boundary to use in a test case. For instance, if a program's valid input set are non negative numbers less not greater than 10, then one test case would use input 0 and another input 10.</template>
+		<pattern>How equivalence partitioning criteria is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary value analisis technique QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence classes partitioning criteria is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary-value analysis technique QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence class partitioning criteria is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary-value analisis technique QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence partitioning technique is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary value analysis criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence classes partitioning technique is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary-value analysis criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How equivalence class partitioning technique is applied</pattern>
+		<template><srai>How equivalence partitioning is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary value analisis criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How * use boundary value analysis technique</pattern>
+		<template>The boundary-value testing criterion determines the boundaries for input values and selects the extremes of the boundary to generate test cases. For instance, if a program's valid input is a positive number less than 10, then the following test cases will be selected in order to test the boundaries: 0, 1, -1, 10, 9 and 11.</template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary-value analisis criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How * use boundary value analisis technique</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary value analysis QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How * use boundary-value analysis technique</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary-value analysis QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How * use boundary-value analisis technique</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary value analisis QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How * use boundary value analysis criteria</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply boundary-value analisis QUESTION MARK</pattern>
-		<template> <srai>How * apply boundary value analysis technique QUESTION MARK</srai></template>
+		<pattern>How * use boundary-value analysis criteria</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analysis technique is used QUESTION MARK</pattern>
-		<template> The boundary-value analysis determines the boundaries for input values and selects the extremes of the boundary to use in a test case. For instance, if a program's valid input set are non negative numbers less not greater than 10, then one test case would use input 0 and another input 10.</template>
+		<pattern>How * use boundary value analisis criteria</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analisis technique is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * use boundary-value analisis criteria</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analysis technique is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * use boundary value analysis</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analisis technique is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * use boundary-value analysis</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analysis criteria is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * use boundary value analisis</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analysis criteria is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * use boundary-value analisis</pattern>
+		<template><srai>How * use boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analisis criteria is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * apply boundary value analysis technique</pattern>
+		<template><srai>How to use boundary value analysis</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analisis criteria is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * apply boundary value analisis technique</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analysis is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * apply boundary-value analysis technique</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analysis is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * apply boundary-value analisis technique</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analisis is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * apply boundary value analysis criteria</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analisis is used QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is used QUESTION MARK</srai></template>
+		<pattern>How * apply boundary-value analysis criteria</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analysis technique is applied QUESTION MARK</pattern>
-		<template> The boundary-value analysis determines the boundaries for input values and selects the extremes of the boundary to use in a test case. For instance, if a program's valid input set are non negative numbers less not greater than 10, then one test case would use input 0 and another input 10.</template>
+		<pattern>How * apply boundary value analisis criteria</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analisis technique is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How * apply boundary-value analisis criteria</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analysis technique is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How * apply boundary value analysis</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analisis technique is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How * apply boundary-value analysis</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analysis criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How * apply boundary value analisis</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analysis criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How * apply boundary-value analisis</pattern>
+		<template><srai>How * apply boundary value analysis technique</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analisis criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How boundary value analysis technique is used</pattern>
+		<template><srai>How to use boundary value analysis</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analisis criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How boundary value analisis technique is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analysis is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How boundary-value analysis technique is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analysis is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How boundary-value analisis technique is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary value analisis is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How boundary value analysis criteria is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How boundary-value analisis is applied QUESTION MARK</pattern>
-		<template> <srai>How boundary value analysis technique is applied QUESTION MARK</srai></template>
+		<pattern>How boundary-value analysis criteria is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use cause-effect graph QUESTION MARK</pattern>
-		<template> The cause effect graph technique consists of creating a graph that illustrates the cause and effect relationships between an outcome and it's possible causes. It helps us to determine the root causes of a problem or quality using a structured approach. The process of creating the graph can be separated in several steps: First, identify and define an effect. Second, fill in the effect box and draw the spine of the graph. Third, identify the main causes contributing to the effect being studied. Fourth, for each major branch, identify other specific factors which may be the causes of the effect. And last, categorize relative causes and provide detailed levels of causes.</template>
+		<pattern>How boundary value analisis criteria is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use cause effect graph QUESTION MARK</pattern>
-		<template> <srai>How * use cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary-value analisis criteria is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use cause-effect graph technique QUESTION MARK</pattern>
-		<template> <srai>How * use cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary value analysis is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use cause effect graph technique QUESTION MARK</pattern>
-		<template> <srai>How * use cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary-value analysis is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use cause-effect graph criteria QUESTION MARK</pattern>
-		<template> <srai>How * use cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary value analisis is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * use cause effect graph criteria QUESTION MARK</pattern>
-		<template> <srai>How * use cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary-value analisis is used</pattern>
+		<template><srai>How boundary value analysis technique is used</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply cause-effect graph QUESTION MARK</pattern>
-		<template> The cause effect graph technique consists of creating a graph that illustrates the cause and effect relationships between an outcome and it's possible causes. It helps us to determine the root causes of a problem or quality using a structured approach. The process of creating the graph can be separated in several steps: First, identify and define an effect. Second, fill in the effect box and draw the spine of the graph. Third, identify the main causes contributing to the effect being studied. Fourth, for each major branch, identify other specific factors which may be the causes of the effect. And last, categorize relative causes and provide detailed levels of causes.</template>
+		<pattern>How boundary value analysis technique is applied</pattern>
+		<template><srai>How to use boundary value analysis</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply cause effect graph QUESTION MARK</pattern>
-		<template> <srai>How * apply cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary value analisis technique is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply cause-effect graph technique QUESTION MARK</pattern>
-		<template> <srai>How * apply cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary-value analysis technique is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply cause effect graph technique QUESTION MARK</pattern>
-		<template> <srai>How * apply cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary-value analisis technique is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply cause-effect graph criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary value analysis criteria is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How * apply cause effect graph criteria QUESTION MARK</pattern>
-		<template> <srai>How * apply cause-effect graph QUESTION MARK</srai></template>
+		<pattern>How boundary-value analysis criteria is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How cause-effect graph is used QUESTION MARK</pattern>
-		<template> The cause effect graph technique consists of creating a graph that illustrates the cause and effect relationships between an outcome and it's possible causes. It helps us to determine the root causes of a problem or quality using a structured approach. The process of creating the graph can be separated in several steps: First, identify and define an effect. Second, fill in the effect box and draw the spine of the graph. Third, identify the main causes contributing to the effect being studied. Fourth, for each major branch, identify other specific factors which may be the causes of the effect. And last, categorize relative causes and provide detailed levels of causes.</template>
+		<pattern>How boundary value analisis criteria is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How cause effect graph is used QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is used QUESTION MARK</srai></template>
+		<pattern>How boundary-value analisis criteria is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How cause-effect graph technique is used QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is used QUESTION MARK</srai></template>
+		<pattern>How boundary value analysis is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How cause effect graph technique is used QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is used QUESTION MARK</srai></template>
+		<pattern>How boundary-value analysis is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How cause-effect graph criteria is used QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is used QUESTION MARK</srai></template>
+		<pattern>How boundary value analisis is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How cause effect graph criteria is used QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is used QUESTION MARK</srai></template>
+		<pattern>How boundary-value analisis is applied</pattern>
+		<template><srai>How boundary value analysis technique is applied</srai></template>
 	</category>
 
 	<category>
-		<pattern> How cause-effect graph is applied QUESTION MARK</pattern>
-		<template> The cause effect graph technique consists of creating a graph that illustrates the cause and effect relationships between an outcome and it's possible causes. It helps us to determine the root causes of a problem or quality using a structured approach. The process of creating the graph can be separated in several steps: First, identify and define an effect. Second, fill in the effect box and draw the spine of the graph. Third, identify the main causes contributing to the effect being studied. Fourth, for each major branch, identify other specific factors which may be the causes of the effect. And last, categorize relative causes and provide detailed levels of causes.</template>
-	</category>
-
-	<category>
-		<pattern> How cause effect graph is applied QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is applied QUESTION MARK</srai></template>
-	</category>
-
-	<category>
-		<pattern> How cause-effect graph technique is applied QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is applied QUESTION MARK</srai></template>
-	</category>
-
-	<category>
-		<pattern> How cause effect graph technique is applied QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is applied QUESTION MARK</srai></template>
-	</category>
-
-	<category>
-		<pattern> How cause-effect graph criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is applied QUESTION MARK</srai></template>
-	</category>
-
-	<category>
-		<pattern> How cause effect graph criteria is applied QUESTION MARK</pattern>
-		<template> <srai>How cause-effect graph is applied QUESTION MARK</srai></template>
-	</category>
-
-	<category>
-		<pattern> How * generate a test case QUESTION MARK</pattern>
-		<template> It depends on the criteria used. <srai>How to use equivalence partitiong QUESTION MARK</srai> <srai>How to use boundary value analysis QUESTION MARK</srai></template>
+		<pattern>How * generate a test case</pattern>
+		<template>It depends on the testing criterion used. <srai>How to use equivalence partitioning</srai> <srai>How to use boundary value analysis</srai></template>
 	</category>
 
 </aiml>
