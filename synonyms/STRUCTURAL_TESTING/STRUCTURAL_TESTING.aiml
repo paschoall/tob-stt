@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>STRUCTURAL TESTING CRITERIA</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURAL TESTING CRITERIA *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TESTING CRITERIA</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TESTING CRITERIA *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURAL TESTING TECHNIQUE</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURAL TESTING TECHNIQUE *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TESTING TECHNIQUE</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TESTING TECHNIQUE *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TESTING CRITERIA</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TESTING CRITERIA *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TESTING CRITERIA</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TESTING CRITERIA *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TESTING TECHNIQUE</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TESTING TECHNIQUE *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TESTING TECHNIQUE</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TESTING TECHNIQUE *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TESTING CRITERIA</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TESTING CRITERIA *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TESTING CRITERIA</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TESTING CRITERIA *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TESTING TECHNIQUE</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TESTING TECHNIQUE *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TESTING TECHNIQUE</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TESTING TECHNIQUE *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURAL TESTING</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURAL TESTING *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TESTING</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TESTING *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TESTING</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TESTING *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TESTING</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TESTING *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TESTING</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TESTING *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TESTING</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TESTING *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>STRUTURAL TESTING</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>STRUTURAL TESTING *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STRUTURAL TESTING</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUTURAL TESTING *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>STRUTURAL TECHNIQUE</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>STRUTURAL TECHNIQUE *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STRUTURAL TECHNIQUE</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUTURAL TECHNIQUE *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>STRUTURAL CRITERIA</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>STRUTURAL CRITERIA *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STRUTURAL CRITERIA</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUTURAL CRITERIA *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURAL TEST</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURAL TEST *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TEST</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURAL TEST *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TEST</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE BOX TEST *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TEST</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE BOX TEST *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TEST</pattern>
+		<template><srai>STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>WHITE-BOX TEST *</pattern>
+		<template><srai>STRUCTURAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TEST</pattern>
+		<template><srai><star/> STRUCTURAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* WHITE-BOX TEST *</pattern>
+		<template><srai><star/> STRUCTURAL TESTING <star index='2' /></srai></template>
+	</category>
+</aiml>

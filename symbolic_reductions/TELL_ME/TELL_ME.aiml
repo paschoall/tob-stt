@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>CAN YOU TELL ME *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>COULD YOU TELL ME *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL TO ME *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>COULD YOU TELL TO ME *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>COULD YOU SAY TO ME *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU SAY TO ME *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>PLEASE TELL ME *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>I WOULD LIKE TO KNOW *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>I WANT TO KNOW *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>I WANNA KNOW *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>ID LIKE TO KNOW *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>I D LIKE TO KNOW *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>AND *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>SO  *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>I AM WONDERING *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>I M WONDERING *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>IM WONDERING *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ABOUT *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>OK *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>ALRIGHT *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>DO YOU KNOW *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+	<category>
+		<pattern>I NEED TO KNOW *</pattern>
+		<template><srai>TELL ME <star/></srai></template>
+	</category>
+</aiml>

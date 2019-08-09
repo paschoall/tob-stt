@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>LETS TALK ABOUT *</pattern>
+		<template><srai>COMMENT ON <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>LET S TALK ABOUT *</pattern>
+		<template><srai>COMMENT ON <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>LETS SPEAK ABOUT *</pattern>
+		<template><srai>COMMENT ON <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>COMMENT ABOUT *</pattern>
+		<template><srai>COMMENT ON <star index='1'/></srai></template>
+	</category>
+</aiml>

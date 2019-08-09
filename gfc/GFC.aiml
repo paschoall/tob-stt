@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>WHAT IS CONTROL FLOW GRAPH</pattern>
+		<template>The control flow graph (CFG) is a graph representation of a certain program, in which the nodes correspond to sequences of instructions, edges correspond to path decisions (e.g. an if statement) and the start node corresponds to the beginning of the program. The CFG is a very important tool in white-box testing, because it represents very well the structure of the program.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * CONTROL FLOW GRAPH</pattern>
+		<template>The control flow graph (CFG) is a graph representation of a certain program, in which the nodes correspond to sequences of instructions, edges correspond to path decisions (e.g. an if statement) and the start node corresponds to the beginning of the program. The CFG is a very important tool in white-box testing, because it represents very well the structure of the program.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS NODE</pattern>
+		<template>A node in a control flow graph represents a group of instructions that are always executed together. They are the circles of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * NODE</pattern>
+		<template>A node in a control flow graph represents a group of instructions that are always executed together. They are the circles of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS NODE *</pattern>
+		<template>A node in a control flow graph represents a group of instructions that are always executed together. They are the circles of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * NODE *</pattern>
+		<template>A node in a control flow graph represents a group of instructions that are always executed together. They are the circles of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS EDGE</pattern>
+		<template>An edge represents a connection between two groups of instructions. The edges are the arrows of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * EDGE</pattern>
+		<template>An edge represents a connection between two groups of instructions. The edges are the arrows of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS EDGE *</pattern>
+		<template>An edge represents a connection between two groups of instructions. The edges are the arrows of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * EDGE *</pattern>
+		<template>An edge represents a connection between two groups of instructions. The edges are the arrows of the graph.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS CYCLE</pattern>
+		<template>A cycle is a path that connects the first node to the last. They are usually the loops in CFG.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * CYCLE</pattern>
+		<template>A cycle is a path that connects the first node to the last. They are usually the loops in CFG.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS CYCLE *</pattern>
+		<template>A cycle is a path that connects the first node to the last. They are usually the loops in CFG.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * CYCLE *</pattern>
+		<template>A cycle is a path that connects the first node to the last. They are usually the loops in CFG.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS GRAPH</pattern>
+		<template>A graph is a mathematical tool used to represent elements that connect to each other. It is composed by nodes (circles) and edges (arrows), where the nodes are the elements we want to represent and the edges are the connections between them. <srai>WHAT IS CONTROL FLOW GRAPH</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS * GRAPH</pattern>
+		<template>A graph is a mathematical tool used to represent elements that connect to each other. It is composed by nodes (circles) and edges (arrows), where the nodes are the elements we want to represent and the edges are the connections between them. <srai>WHAT IS CONTROL FLOW GRAPH</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS PREDICATE NODE</pattern>
+		<template>A predicate node is a node that has more than one out-edge. A classic example is the condition of an if statement.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PREDICATE NODE</pattern>
+		<template>A predicate node is a node that has more than one out-edge. A classic example is the condition of an if statement.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS PREDICATE NODE *</pattern>
+		<template>A predicate node is a node that has more than one out-edge. A classic example is the condition of an if statement.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PREDICATE NODE *</pattern>
+		<template>A predicate node is a node that has more than one out-edge. A classic example is the condition of an if statement.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS PATH</pattern>
+		<template>A path a list of nodes that can be traversed sequentially, following it’s edges. In CFG, a path represents the execution of the program for some specific input. </template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PATH</pattern>
+		<template>A path a list of nodes that can be traversed sequentially, following it’s edges. In CFG, a path represents the execution of the program for some specific input. </template>
+	</category>
+	<category>
+		<pattern>WHAT IS PATH *</pattern>
+		<template>A path a list of nodes that can be traversed sequentially, following it’s edges. In CFG, a path represents the execution of the program for some specific input. </template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PATH *</pattern>
+		<template>A path a list of nodes that can be traversed sequentially, following it’s edges. In CFG, a path represents the execution of the program for some specific input. </template>
+	</category>
+	<category>
+		<pattern>WHAT IS SIMPLE PATH</pattern>
+		<template>A simple path is a path with no repeated nodes.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * SIMPLE PATH</pattern>
+		<template>A simple path is a path with no repeated nodes.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS SIMPLE PATH *</pattern>
+		<template>A simple path is a path with no repeated nodes.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * SIMPLE PATH *</pattern>
+		<template>A simple path is a path with no repeated nodes.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS COMPLETE PATH</pattern>
+		<template>A complete path in a CFG is a path where it’s first node is an entry node and the last is an exit node.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * COMPLETE PATH</pattern>
+		<template>A complete path in a CFG is a path where it’s first node is an entry node and the last is an exit node.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS COMPLETE PATH *</pattern>
+		<template>A complete path in a CFG is a path where it’s first node is an entry node and the last is an exit node.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * COMPLETE PATH *</pattern>
+		<template>A complete path in a CFG is a path where it’s first node is an entry node and the last is an exit node.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS CYCLOMATIC COMPLEXITY</pattern>
+		<template>The cyclomatic complexity of a program is a metric defined by McCabe to measure the complexity of a program. It is defined by C = E – V + 2, where C is the complexity, V is the number of vertices and E is the number of edges.\\nIt can also be obtained by the number of predicate nodes plus one.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * CYCLOMATIC COMPLEXITY</pattern>
+		<template>The cyclomatic complexity of a program is a metric defined by McCabe to measure the complexity of a program. It is defined by C = E – V + 2, where C is the complexity, V is the number of vertices and E is the number of edges.\\nIt can also be obtained by the number of predicate nodes plus one.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS CYCLOMATIC COMPLEXITY *</pattern>
+		<template>The cyclomatic complexity of a program is a metric defined by McCabe to measure the complexity of a program. It is defined by C = E – V + 2, where C is the complexity, V is the number of vertices and E is the number of edges.\\nIt can also be obtained by the number of predicate nodes plus one.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * CYCLOMATIC COMPLEXITY *</pattern>
+		<template>The cyclomatic complexity of a program is a metric defined by McCabe to measure the complexity of a program. It is defined by C = E – V + 2, where C is the complexity, V is the number of vertices and E is the number of edges.\\nIt can also be obtained by the number of predicate nodes plus one.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS MCCABE COMPLEXITY</pattern>
+		<template><srai>WHAT IS CYCLOMATIC COMPLEXITY</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS * MCCABE COMPLEXITY</pattern>
+		<template><srai>WHAT IS CYCLOMATIC COMPLEXITY</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS MCCABE COMPLEXITY *</pattern>
+		<template><srai>WHAT IS CYCLOMATIC COMPLEXITY</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS * MCCABE COMPLEXITY *</pattern>
+		<template><srai>WHAT IS CYCLOMATIC COMPLEXITY</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS CONTROL FLOW</pattern>
+		<template>The control flow is the flow of instructions that are executed in a program. The control flow graph is a modeling of possible paths and flow of instructions that can occur in the execution of a specific program.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * CONTROL FLOW</pattern>
+		<template>The control flow is the flow of instructions that are executed in a program. The control flow graph is a modeling of possible paths and flow of instructions that can occur in the execution of a specific program.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS DATA FLOW</pattern>
+		<template>The data flow is the flow of data or information handled by a program. It is another area of study in software testing and engineering, that focus on analysing the sequence of procedures and paths some given piece of data is used and processed at.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * DATA FLOW</pattern>
+		<template>The data flow is the flow of data or information handled by a program. It is another area of study in software testing and engineering, that focus on analysing the sequence of procedures and paths some given piece of data is used and processed at.</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT IF</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT IF</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * IF</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * IF</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT IF *</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT IF *</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * IF *</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * IF *</pattern>
+		<template>An if statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/if.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT FOR</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT FOR</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * FOR</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * FOR</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT FOR *</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT FOR *</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * FOR *</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * FOR *</pattern>
+		<template>A for statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/for.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT WHILE</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT WHILE</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * WHILE</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * WHILE</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT WHILE *</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT WHILE *</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * WHILE *</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * WHILE *</pattern>
+		<template>A while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT DO WHILE</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT DO WHILE</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * DO WHILE</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * DO WHILE</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT DO WHILE *</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT DO WHILE *</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * DO WHILE *</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * DO WHILE *</pattern>
+		<template>A do while statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/do_while.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT SWITCH</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT SWITCH</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * SWITCH</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * SWITCH</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT SWITCH *</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT SWITCH *</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * SWITCH *</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * SWITCH *</pattern>
+		<template>A switch or case statement can be represented as in the picture below:\\n[img]http://www.labes.icmc.usp.br/~tob-stt/resources/case.png[/img]</template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT CASE</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT CASE</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * CASE</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * CASE</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT CASE *</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT CASE *</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>HOW REPRESENT * CASE *</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>HOW * REPRESENT * CASE *</pattern>
+		<template><srai>HOW REPRESENT SWITCH</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS NON EXECUTABLE PATH</pattern>
+		<template>A non executable path is a path in the CFG graph for which there is no data input that causes the execution of it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * NON EXECUTABLE PATH</pattern>
+		<template>A non executable path is a path in the CFG graph for which there is no data input that causes the execution of it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS NON EXECUTABLE PATH *</pattern>
+		<template>A non executable path is a path in the CFG graph for which there is no data input that causes the execution of it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * NON EXECUTABLE PATH *</pattern>
+		<template>A non executable path is a path in the CFG graph for which there is no data input that causes the execution of it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS PATH EXECUTION</pattern>
+		<template>A path execution is the execution, in sequence, of the statements of every node in it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PATH EXECUTION</pattern>
+		<template>A path execution is the execution, in sequence, of the statements of every node in it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS PATH EXECUTION *</pattern>
+		<template>A path execution is the execution, in sequence, of the statements of every node in it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PATH EXECUTION *</pattern>
+		<template>A path execution is the execution, in sequence, of the statements of every node in it.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS PRIMITIVE EDGE</pattern>
+		<template>Primitive edges are all edges coming out of predicate nodes, that may or may not be traversed.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PRIMITIVE EDGE</pattern>
+		<template>Primitive edges are all edges coming out of predicate nodes, that may or may not be traversed.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS PRIMITIVE EDGE *</pattern>
+		<template>Primitive edges are all edges coming out of predicate nodes, that may or may not be traversed.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS * PRIMITIVE EDGE *</pattern>
+		<template>Primitive edges are all edges coming out of predicate nodes, that may or may not be traversed.</template>
+	</category>
+	<category>
+		<pattern>HOW * CREATE CONTROL FLOW GRAPH</pattern>
+		<template>The control flow graph is very easy to create. The CFG of a sequential program with no control flow deviations is simply a single node. In a more complex program, with loops and conditional statements, the graph gains some edges, but you are able to draw any CFG if you are able to represent usual components of programs, like IFs, WHILEs and so. Ask me how to represent that. </template>
+	</category>
+	<category>
+		<pattern>HOW * DRAW CONTROL FLOW GRAPH</pattern>
+		<template><srai> HOW TO CREATE CONTROL FLOW GRAPH </srai></template>
+	</category>
+	<category>
+		<pattern>HOW * DESIGN CONTROL FLOW GRAPH</pattern>
+		<template><srai> HOW TO CREATE CONTROL FLOW GRAPH </srai></template>
+	</category>
+</aiml>

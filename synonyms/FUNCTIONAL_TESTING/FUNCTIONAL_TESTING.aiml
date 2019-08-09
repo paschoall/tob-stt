@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>FUNCTIONAL TESTING CRITERIA</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>FUNCTIONAL TESTING CRITERIA *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* FUNCTIONAL TESTING CRITERIA</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* FUNCTIONAL TESTING CRITERIA *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>FUNCTIONAL TESTING TECHNIQUE</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>FUNCTIONAL TESTING TECHNIQUE *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* FUNCTIONAL TESTING TECHNIQUE</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* FUNCTIONAL TESTING TECHNIQUE *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TESTING</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TESTING *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TESTING</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TESTING *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TESTING CRITERIA</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TESTING CRITERIA *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TESTING CRITERIA</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TESTING CRITERIA *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TESTING TECHNIQUE</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TESTING TECHNIQUE *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TESTING TECHNIQUE</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TESTING TECHNIQUE *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TESTING</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TESTING *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TESTING</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TESTING *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TESTING CRITERIA</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TESTING CRITERIA *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TESTING CRITERIA</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TESTING CRITERIA *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TESTING TECHNIQUE</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TESTING TECHNIQUE *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TESTING TECHNIQUE</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TESTING TECHNIQUE *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>FUNCTIONAL TEST</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>FUNCTIONAL TEST *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* FUNCTIONAL TEST</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* FUNCTIONAL TEST *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TEST</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK BOX TEST *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TEST</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK BOX TEST *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TEST</pattern>
+		<template><srai>FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>BLACK-BOX TEST *</pattern>
+		<template><srai>FUNCTIONAL TESTING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TEST</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING</srai></template>
+	</category>
+	<category>
+		<pattern>* BLACK-BOX TEST *</pattern>
+		<template><srai><star/> FUNCTIONAL TESTING <star index='2' /></srai></template>
+	</category>
+</aiml>

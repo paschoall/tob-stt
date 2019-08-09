@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>PATH COVERAGE</pattern>
+		<template><srai>ALL PATHS</srai></template>
+	</category>
+	<category>
+		<pattern>PATH COVERAGE *</pattern>
+		<template><srai>ALL PATHS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* PATH COVERAGE</pattern>
+		<template><srai><star/> ALL PATHS</srai></template>
+	</category>
+	<category>
+		<pattern>* PATH COVERAGE *</pattern>
+		<template><srai><star/> ALL PATHS <star index='2' /></srai></template>
+	</category>
+</aiml>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>HOW YOU DOING</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>HOW YOU DOING *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HOW YOU DOING</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW YOU DOING *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>ARE YOU OK</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>ARE YOU OK *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ARE YOU OK</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* ARE YOU OK *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HOW ARE THINGS</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>HOW ARE THINGS *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HOW ARE THINGS</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW ARE THINGS *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EVERYTHING OK</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>EVERYTHING OK *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EVERYTHING OK</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* EVERYTHING OK *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>ARE YOU FINE</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>ARE YOU FINE *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ARE YOU FINE</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* ARE YOU FINE *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT HAPPENING</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT HAPPENING *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT HAPPENING</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT HAPPENING *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S HAPPENING</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S HAPPENING *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT S HAPPENING</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT S HAPPENING *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS HAPPENING</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>WHATS HAPPENING *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHATS HAPPENING</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* WHATS HAPPENING *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HOW ARE YOU DOING</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>HOW ARE YOU DOING *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HOW ARE YOU DOING</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW ARE YOU DOING *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HOW YOU BEEN</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>HOW YOU BEEN *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HOW YOU BEEN</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW YOU BEEN *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS GOING ON</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS GOING ON *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT IS GOING ON</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT IS GOING ON *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT HAPPENING</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT HAPPENING *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT HAPPENING</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT HAPPENING *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HOW HAVE YOU BEEN</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>HOW HAVE YOU BEEN *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HOW HAVE YOU BEEN</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW HAVE YOU BEEN *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HOW HAVE YOU BEEN DOING</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>HOW HAVE YOU BEEN DOING *</pattern>
+		<template><srai>HOW ARE YOU <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HOW HAVE YOU BEEN DOING</pattern>
+		<template><srai><star/> HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW HAVE YOU BEEN DOING *</pattern>
+		<template><srai><star/> HOW ARE YOU <star index='2' /></srai></template>
+	</category>
+</aiml>

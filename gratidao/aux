@@ -1,0 +1,15 @@
+HELLO	Hello, how are you?	Hi there, what do you need?	Hello, ask me a question!	Welcome!
+* HELLO	<srai>HELLO</srai>			
+HELLO *	<srai>HELLO</srai>			
+* HELLO *	<srai>HELLO</srai>			
+HOW ARE YOU	I am fine, what about you	Great! How are you?		
+HOW ARE YOU *	<srai>HOW ARE YOU</srai>			
+* HOW ARE YOU	<srai>HOW ARE YOU</srai>			
+* HOW ARE YOU *	<srai>HOW ARE YOU</srai>			
+GOOD BYE	See you later!	Bye bye!	Nice talking to you!	See you!
+* GOOD BYE	<srai>GOOD BYE</srai>			
+GOOD BYE *	<srai>GOOD BYE</srai>			
+* GOOD BYE *	<srai>GOOD BYE</srai>			
+OK	OK!			
+GREAT	Great!			
+NICE	Cool			

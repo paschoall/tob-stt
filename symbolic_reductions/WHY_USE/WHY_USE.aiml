@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>WHY * USE *</pattern>
+		<template><srai>WHY USE <star index='2'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHY * APPLY *</pattern>
+		<template><srai>WHY USE <star index='2'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE THE ADVANTAGES OF *</pattern>
+		<template><srai>WHY USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE APPEAL OF *</pattern>
+		<template><srai>WHY USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHY IS * USEFUL</pattern>
+		<template><srai>WHY USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHY IS * USED</pattern>
+		<template><srai>WHY USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE OBJECTIVE OF *</pattern>
+		<template><srai>WHY USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE GOAL OF *</pattern>
+		<template><srai>WHY USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>WHY APPLY *</pattern>
+		<template><srai>WHY USE <star index='1'/></srai></template>
+	</category>
+</aiml>

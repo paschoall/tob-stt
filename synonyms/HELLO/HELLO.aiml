@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>GOOD NIGHT</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD NIGHT *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD NIGHT</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD NIGHT *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>GOOD EVENING</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD EVENING *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD EVENING</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD EVENING *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>GOOD MORNING</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD MORNING *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD MORNING</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD MORNING *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>GOOD DAY</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD DAY *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD DAY</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD DAY *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS UP</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS UP *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT IS UP</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT IS UP *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HI THERE</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HI THERE *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HI THERE</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* HI THERE *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HI</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HI *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HI</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* HI *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HEY </pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HEY  *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HEY </pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* HEY  *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HELLO</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HELLO *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HELLO</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* HELLO *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>GREETINGS</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>GREETINGS *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* GREETINGS</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* GREETINGS *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HOWDY</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HOWDY *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HOWDY</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* HOWDY *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HII</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HII *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HII</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* HII *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>GOOD AFTERNOON</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD AFTERNOON *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD AFTERNOON</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD AFTERNOON *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT UP</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT UP *</pattern>
+		<template><srai>HELLO <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT UP</pattern>
+		<template><srai><star/> HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* WHAT UP *</pattern>
+		<template><srai><star/> HELLO <star index='2' /></srai></template>
+	</category>
+</aiml>

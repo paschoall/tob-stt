@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>BYE</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>BYE *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BYE</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* BYE *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>SEE YA</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>SEE YA *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* SEE YA</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* SEE YA *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>SEE YOU</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>SEE YOU *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* SEE YOU</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* SEE YOU *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>GOODBYE</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>GOODBYE *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* GOODBYE</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* GOODBYE *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HAVE A GOOD</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>HAVE A GOOD *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HAVE A GOOD</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* HAVE A GOOD *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>SEE YOU LATER</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>SEE YOU LATER *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* SEE YOU LATER</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* SEE YOU LATER *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BYE-BYE</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>BYE-BYE *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BYE-BYE</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* BYE-BYE *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>FAREWELL</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>FAREWELL *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* FAREWELL</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* FAREWELL *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>SO LONG</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>SO LONG *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* SO LONG</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* SO LONG *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>ADIOS</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>ADIOS *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ADIOS</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* ADIOS *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>HAVE A NICE</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>HAVE A NICE *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* HAVE A NICE</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* HAVE A NICE *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>UNTIL NEXT TIME</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>UNTIL NEXT TIME *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* UNTIL NEXT TIME</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* UNTIL NEXT TIME *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>CHAO</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>CHAO *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* CHAO</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* CHAO *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>TCHAU</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>TCHAU *</pattern>
+		<template><srai>GOOD BYE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* TCHAU</pattern>
+		<template><srai><star/> GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* TCHAU *</pattern>
+		<template><srai><star/> GOOD BYE <star index='2' /></srai></template>
+	</category>
+</aiml>

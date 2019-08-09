@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>WHAT IS A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WAT *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WAT IS *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WAT IS A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WAT IS AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS ONE *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE DEFINITION OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS THE DEFINITION OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S THE DEFINITION OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE DEFINITION OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS THE DEFINITION OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S THE DEFINITION OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE DEFINITION OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS THE DEFINITION OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S THE DEFINITION OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE MEANING OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S THE MEANING OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS THE MEANING OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE MEANING OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S THE MEANING OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS THE MEANING OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE MEANING OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT S THE MEANING OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHATS THE MEANING OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT A * IS</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT AN * IS</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT * IS</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT DOES A * MEAN</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT DOES AN * MEAN</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT DO * MEAN</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT DOES * MEAN</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>THE DEFINITION OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>THE DEFINITION OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>THE DEFINITION OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE DEFINITION OF A *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE DEFINITION OF AN *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE DEFINITION OF *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE THE *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>DEFINE *</pattern>
+		<template><srai>WHAT IS <star/></srai></template>
+	</category>
+</aiml>

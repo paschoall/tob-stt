@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>REQUISITE</pattern>
+		<template><srai>REQUIREMENT</srai></template>
+	</category>
+	<category>
+		<pattern>REQUISITE *</pattern>
+		<template><srai>REQUIREMENT <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* REQUISITE</pattern>
+		<template><srai><star/> REQUIREMENT</srai></template>
+	</category>
+	<category>
+		<pattern>* REQUISITE *</pattern>
+		<template><srai><star/> REQUIREMENT <star index='2' /></srai></template>
+	</category>
+</aiml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>ARCH</pattern>
+		<template><srai>EDGE</srai></template>
+	</category>
+	<category>
+		<pattern>ARCH *</pattern>
+		<template><srai>EDGE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ARCH</pattern>
+		<template><srai><star/> EDGE</srai></template>
+	</category>
+	<category>
+		<pattern>* ARCH *</pattern>
+		<template><srai><star/> EDGE <star index='2' /></srai></template>
+	</category>
+</aiml>

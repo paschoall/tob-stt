@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>HOW * USE *</pattern>
+		<template><srai>HOW USE <star index='2'/></srai></template>
+	</category>
+	<category>
+		<pattern>HOW USE *</pattern>
+		<template><srai>HOW USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>HOW * APPLY *</pattern>
+		<template><srai>HOW USE <star index='2'/></srai></template>
+	</category>
+	<category>
+		<pattern>HOW APPLY *</pattern>
+		<template><srai>HOW USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>HOW * IS APPLIED</pattern>
+		<template><srai>HOW USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>HOW * IS USED</pattern>
+		<template><srai>HOW USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>HOW IS * USED</pattern>
+		<template><srai>HOW USE <star index='1'/></srai></template>
+	</category>
+	<category>
+		<pattern>HOW IS * APPLIED</pattern>
+		<template><srai>HOW USE <star index='1'/></srai></template>
+	</category>
+</aiml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>BRANCH COVERAGE</pattern>
+		<template><srai>ALL EDGES</srai></template>
+	</category>
+	<category>
+		<pattern>BRANCH COVERAGE *</pattern>
+		<template><srai>ALL EDGES <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BRANCH COVERAGE</pattern>
+		<template><srai><star/> ALL EDGES</srai></template>
+	</category>
+	<category>
+		<pattern>* BRANCH COVERAGE *</pattern>
+		<template><srai><star/> ALL EDGES <star index='2' /></srai></template>
+	</category>
+</aiml>

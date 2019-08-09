@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>VERTEX</pattern>
+		<template><srai>NODE</srai></template>
+	</category>
+	<category>
+		<pattern>VERTEX *</pattern>
+		<template><srai>NODE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* VERTEX</pattern>
+		<template><srai><star/> NODE</srai></template>
+	</category>
+	<category>
+		<pattern>* VERTEX *</pattern>
+		<template><srai><star/> NODE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>STATE</pattern>
+		<template><srai>NODE</srai></template>
+	</category>
+	<category>
+		<pattern>STATE *</pattern>
+		<template><srai>NODE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* STATE</pattern>
+		<template><srai><star/> NODE</srai></template>
+	</category>
+	<category>
+		<pattern>* STATE *</pattern>
+		<template><srai><star/> NODE <star index='2' /></srai></template>
+	</category>
+</aiml>

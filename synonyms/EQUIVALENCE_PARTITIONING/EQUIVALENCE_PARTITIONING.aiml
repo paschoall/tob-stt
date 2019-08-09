@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>EQUIVALENCE CLASSES PARTITIONING</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES PARTITIONING *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES PARTITIONING</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES PARTITIONING *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS PARTITIONING</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS PARTITIONING *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS PARTITIONING</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS PARTITIONING *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE PARTITIONING CRITERIA</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE PARTITIONING CRITERIA *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE PARTITIONING CRITERIA</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE PARTITIONING CRITERIA *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES PARTITIONING CRITERIA</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES PARTITIONING CRITERIA *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES PARTITIONING CRITERIA</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES PARTITIONING CRITERIA *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS PARTITIONING CRITERIA</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS PARTITIONING CRITERIA *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS PARTITIONING CRITERIA</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS PARTITIONING CRITERIA *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE PARTITIONING TECHNIQUE</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE PARTITIONING TECHNIQUE *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE PARTITIONING TECHNIQUE</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE PARTITIONING TECHNIQUE *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES PARTITIONING TECHNIQUE</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES PARTITIONING TECHNIQUE *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES PARTITIONING TECHNIQUE</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES PARTITIONING TECHNIQUE *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS PARTITIONING TECHNIQUE</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS PARTITIONING TECHNIQUE *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS PARTITIONING TECHNIQUE</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS PARTITIONING TECHNIQUE *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS CRITERIA</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS CRITERIA *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS CRITERIA</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS CRITERIA *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES CRITERIA</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES CRITERIA *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES CRITERIA</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES CRITERIA *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS TECHNIQUE</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASS TECHNIQUE *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS TECHNIQUE</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASS TECHNIQUE *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES TECHNIQUE</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES TECHNIQUE *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES TECHNIQUE</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES TECHNIQUE *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>CLASS PARTITIONING</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>CLASS PARTITIONING *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* CLASS PARTITIONING</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* CLASS PARTITIONING *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>CLASSES PARTITIONING</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>CLASSES PARTITIONING *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* CLASSES PARTITIONING</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* CLASSES PARTITIONING *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>PARTITIONING</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>PARTITIONING *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* PARTITIONING</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* PARTITIONING *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>PARTITIONING CRITERIA</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>PARTITIONING CRITERIA *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* PARTITIONING CRITERIA</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* PARTITIONING CRITERIA *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>PARTITIONING TECHNIQUE</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>PARTITIONING TECHNIQUE *</pattern>
+		<template><srai>EQUIVALENCE PARTITIONING <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* PARTITIONING TECHNIQUE</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING</srai></template>
+	</category>
+	<category>
+		<pattern>* PARTITIONING TECHNIQUE *</pattern>
+		<template><srai><star/> EQUIVALENCE PARTITIONING <star index='2' /></srai></template>
+	</category>
+</aiml>

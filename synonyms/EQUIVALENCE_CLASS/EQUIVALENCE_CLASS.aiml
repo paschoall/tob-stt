@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>EQUIVALENCY CLASS</pattern>
+		<template><srai>EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCY CLASS *</pattern>
+		<template><srai>EQUIVALENCE CLASS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCY CLASS</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCY CLASS *</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES</pattern>
+		<template><srai>EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCE CLASSES *</pattern>
+		<template><srai>EQUIVALENCE CLASS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCE CLASSES *</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCY CLASSES</pattern>
+		<template><srai>EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENCY CLASSES *</pattern>
+		<template><srai>EQUIVALENCE CLASS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCY CLASSES</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENCY CLASSES *</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENT CLASS</pattern>
+		<template><srai>EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENT CLASS *</pattern>
+		<template><srai>EQUIVALENCE CLASS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENT CLASS</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENT CLASS *</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENT CLASSES</pattern>
+		<template><srai>EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>EQUIVALENT CLASSES *</pattern>
+		<template><srai>EQUIVALENCE CLASS <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENT CLASSES</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS</srai></template>
+	</category>
+	<category>
+		<pattern>* EQUIVALENT CLASSES *</pattern>
+		<template><srai><star/> EQUIVALENCE CLASS <star index='2' /></srai></template>
+	</category>
+</aiml>

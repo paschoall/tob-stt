@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>BOUNDARY VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALISIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALISIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALISIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALISIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALYSIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALYSIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALYSIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALYSIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALYSIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALYSIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALYSIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALYSIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALISIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE ANALISIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALISIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE ANALISIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALISIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE ANALISIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALISIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE ANALISIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE STUDY</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE STUDY *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE STUDY</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE STUDY *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE STUDY</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE STUDY *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE STUDY</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE STUDY *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE STUDY CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE STUDY CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE STUDY CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE STUDY CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE STUDY CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE STUDY CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE STUDY CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE STUDY CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE STUDY TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE STUDY TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE STUDY TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT-VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE STUDY TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT-VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE ANALYSIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>LIMIT VALUE ANALYSIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE ANALYSIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* LIMIT VALUE ANALYSIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE STUDY CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE STUDY CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE STUDY CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE STUDY CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE STUDY CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE STUDY CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE STUDY CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE STUDY CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE STUDY TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE STUDY TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE STUDY TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARY-VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE STUDY TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARY-VALUE STUDY TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALYSIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALYSIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALISIS TECHNIQUE</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALISIS TECHNIQUE *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALYSIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALYSIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALISIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALISIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALISIS CRITERIA</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALISIS CRITERIA</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALISIS CRITERIA *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALYSIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALYSIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALYSIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALYSIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALYSIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALYSIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALYSIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALYSIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALISIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE VALUE ANALISIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALISIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE VALUE ANALISIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALISIS</pattern>
+		<template><srai>BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>BOUNDARIE-VALUE ANALISIS *</pattern>
+		<template><srai>BOUNDARY VALUE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALISIS</pattern>
+		<template><srai><star/> BOUNDARY VALUE</srai></template>
+	</category>
+	<category>
+		<pattern>* BOUNDARIE-VALUE ANALISIS *</pattern>
+		<template><srai><star/> BOUNDARY VALUE <star index='2' /></srai></template>
+	</category>
+</aiml>

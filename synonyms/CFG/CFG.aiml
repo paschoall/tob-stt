@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>CFG</pattern>
+		<template><srai>CONTROL FLOW GRAPH</srai></template>
+	</category>
+	<category>
+		<pattern>CFG *</pattern>
+		<template><srai>CONTROL FLOW GRAPH <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* CFG</pattern>
+		<template><srai><star/> CONTROL FLOW GRAPH</srai></template>
+	</category>
+	<category>
+		<pattern>* CFG *</pattern>
+		<template><srai><star/> CONTROL FLOW GRAPH <star index='2' /></srai></template>
+	</category>
+</aiml>

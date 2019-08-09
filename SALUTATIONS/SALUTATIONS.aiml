@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>HELLO</pattern>
+		<template><random><li>Hello, how are you?</li><li>Hi there, what do you need?</li><li>Hello, ask me a question!</li><li>Welcome!</li></random></template>
+	</category>
+	<category>
+		<pattern>* HELLO</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HELLO *</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>* HELLO *</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>HOW ARE YOU</pattern>
+		<template><random><li>I am fine, what about you</li><li>Great! How are you?</li></random></template>
+	</category>
+	<category>
+		<pattern>HOW ARE YOU *</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW ARE YOU</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>* HOW ARE YOU *</pattern>
+		<template><srai>HOW ARE YOU</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD BYE</pattern>
+		<template><random><li>See you later!</li><li>Bye bye!</li><li>Nice talking to you!</li><li>See you!</li></random></template>
+	</category>
+	<category>
+		<pattern>* GOOD BYE</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD BYE *</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>* GOOD BYE *</pattern>
+		<template><srai>GOOD BYE</srai></template>
+	</category>
+	<category>
+		<pattern>OK</pattern>
+		<template>OK!</template>
+	</category>
+	<category>
+		<pattern>GREAT</pattern>
+		<template>Great!</template>
+	</category>
+	<category>
+		<pattern>NICE</pattern>
+		<template>Cool</template>
+	</category>
+</aiml>

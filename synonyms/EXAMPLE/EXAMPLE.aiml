@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>EXAMPLES</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>EXAMPLES *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EXAMPLES</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* EXAMPLES *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>CASE</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>CASE *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* CASE</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* CASE *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>CASES</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>CASES *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* CASES</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* CASES *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>ILLUSTRATION</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>ILLUSTRATION *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ILLUSTRATION</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* ILLUSTRATION *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>ILLUSTRATIONS</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>ILLUSTRATIONS *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ILLUSTRATIONS</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* ILLUSTRATIONS *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>ILUSTRATION</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>ILUSTRATION *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ILUSTRATION</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* ILUSTRATION *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>ILUSTRATIONS</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>ILUSTRATIONS *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* ILUSTRATIONS</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* ILUSTRATIONS *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>SAMPLE</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>SAMPLE *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* SAMPLE</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* SAMPLE *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>SAMPLES</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>SAMPLES *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* SAMPLES</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* SAMPLES *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EXEMPLIFICATION</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>EXEMPLIFICATION *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EXEMPLIFICATION</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* EXEMPLIFICATION *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>EXEMPLIFICATIONS</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>EXEMPLIFICATIONS *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* EXEMPLIFICATIONS</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* EXEMPLIFICATIONS *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>APPLICATION</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>APPLICATION *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* APPLICATION</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* APPLICATION *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>APPLICATIONS</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>APPLICATIONS *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* APPLICATIONS</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* APPLICATIONS *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>INSTANCE</pattern>
+		<template><srai>EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>INSTANCE *</pattern>
+		<template><srai>EXAMPLE <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* INSTANCE</pattern>
+		<template><srai><star/> EXAMPLE</srai></template>
+	</category>
+	<category>
+		<pattern>* INSTANCE *</pattern>
+		<template><srai><star/> EXAMPLE <star index='2' /></srai></template>
+	</category>
+</aiml>

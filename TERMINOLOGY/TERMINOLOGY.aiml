@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>WHAT IS SOFTWARE TESTING</pattern>
+		<template>Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.</template>
+	</category>

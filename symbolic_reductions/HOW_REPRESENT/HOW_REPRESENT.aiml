@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>HOW * REPRESENT</pattern>
+		<template><srai>HOW REPRESENT <star index='1'/></srai></template>
+	</category>
+</aiml>

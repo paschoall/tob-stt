@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>MODEL</pattern>
+		<template><srai>REPRESENT</srai></template>
+	</category>
+	<category>
+		<pattern>MODEL *</pattern>
+		<template><srai>REPRESENT <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* MODEL</pattern>
+		<template><srai><star/> REPRESENT</srai></template>
+	</category>
+	<category>
+		<pattern>* MODEL *</pattern>
+		<template><srai><star/> REPRESENT <star index='2' /></srai></template>
+	</category>
+</aiml>

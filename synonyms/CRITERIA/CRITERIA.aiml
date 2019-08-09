@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>TECHNIQUE</pattern>
+		<template><srai>CRITERIA</srai></template>
+	</category>
+	<category>
+		<pattern>TECHNIQUE *</pattern>
+		<template><srai>CRITERIA <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* TECHNIQUE</pattern>
+		<template><srai><star/> CRITERIA</srai></template>
+	</category>
+	<category>
+		<pattern>* TECHNIQUE *</pattern>
+		<template><srai><star/> CRITERIA <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>CRITERION</pattern>
+		<template><srai>CRITERIA</srai></template>
+	</category>
+	<category>
+		<pattern>CRITERION *</pattern>
+		<template><srai>CRITERIA <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* CRITERION</pattern>
+		<template><srai><star/> CRITERIA</srai></template>
+	</category>
+	<category>
+		<pattern>* CRITERION *</pattern>
+		<template><srai><star/> CRITERIA <star index='2' /></srai></template>
+	</category>
+	<category>
+		<pattern>TECHNIQUES</pattern>
+		<template><srai>CRITERIA</srai></template>
+	</category>
+	<category>
+		<pattern>TECHNIQUES *</pattern>
+		<template><srai>CRITERIA <star/></srai></template>
+	</category>
+	<category>
+		<pattern>* TECHNIQUES</pattern>
+		<template><srai><star/> CRITERIA</srai></template>
+	</category>
+	<category>
+		<pattern>* TECHNIQUES *</pattern>
+		<template><srai><star/> CRITERIA <star index='2' /></srai></template>
+	</category>
+</aiml>
