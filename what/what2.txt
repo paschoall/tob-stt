@@ -64,8 +64,7 @@
 >A test selection criterion is a means of selecting test cases or determining that a set of test cases is sufficient for a specified purpose. Test adequacy criteria can be used to decide when sufficient testing will be, or has been accomplished.
  
 -What is ?equivalence_partitioning?  
->
-Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work
+>Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work
  
 -What is ?boundary_value_analysis?
 >Boundary_value_analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.

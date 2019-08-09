@@ -1,2 +1,44 @@
--^ ?thanks? ^
->You are welcome! :)
+-HELLO
+><random><li>Hello, how are you?</li><li>Hi there, what do you need?</li><li>Hello, ask me a question!</li><li>Welcome!</li></random>
+
+-* HELLO
+><srai>HELLO</srai>
+
+-HELLO *
+><srai>HELLO</srai>
+
+-* HELLO *
+><srai>HELLO</srai>
+
+-HOW ARE YOU
+><random><li>I am fine, what about you</li><li>Great! How are you?</li></random>
+
+-HOW ARE YOU *
+><srai>HOW ARE YOU</srai>
+
+-* HOW ARE YOU
+><srai>HOW ARE YOU</srai>
+
+-* HOW ARE YOU *
+><srai>HOW ARE YOU</srai>
+
+-GOOD BYE
+><random><li>See you later!</li><li>Bye bye!</li><li>Nice talking to you!</li><li>See you!</li></random>
+
+-* GOOD BYE
+><srai>GOOD BYE</srai>
+
+-GOOD BYE *
+><srai>GOOD BYE</srai>
+
+-* GOOD BYE *
+><srai>GOOD BYE</srai>
+
+-OK
+>OK!
+
+-GREAT
+>Great!
+
+-NICE
+>Cool
