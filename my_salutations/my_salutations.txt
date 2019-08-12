@@ -1,7 +1,0 @@
--Nice to meet ^
->Nice to meet you too!
-
--How are you doing ^
--How you doing ^
--How are you ^
-><random><li> Im fine, what about you? </li> <li> Great! </li> </random>

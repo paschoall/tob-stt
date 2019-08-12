@@ -1,6 +1,0 @@
-<aiml>
-	<category>
-		<pattern>linebreakteste</pattern>
-		<template>linha\\nlinha</template>
-	</category>
-</aiml>

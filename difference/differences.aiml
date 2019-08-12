@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aiml>
-	<category>
-		<pattern>DIFFERENCE OF * AND *</pattern>
-		<template><srai>WHAT IS <star index='1'/></srai> <srai>WHAT IS <star index='2'/></srai></template>
-	</category>
-</aiml>

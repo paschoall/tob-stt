@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aiml>
-	<category>
-		<pattern>Show me an image</pattern>
-		<template>[img]https://www.google.com/logos/doodles/2019/dia-dos-namorados-2019-5193644330975232.3-law.gif[/img]</template>
-	</category>
-</aiml>
