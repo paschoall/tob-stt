@@ -4,6 +4,7 @@ intents:
   - thank
   - how_to_use
   - cite_example
+  - define
 
 slots:
   concept:
@@ -161,6 +162,160 @@ responses:
   utter_example_switch:
     - text: "A switch or case statement can be represented as in the picture below:"
       image: "http://www.labes.icmc.usp.br/~tob-stt/resources/case.png"
+
+  # DEFINITION
+  utter_definition_all_nodes:
+    - text: "The all-nodes or all-states or block coverage criterion is a structural testing criterion which involves creating a test set such that, after the program is executed on this test set, every node of the CFG (Control Flow Graph) is visited at least once."
+
+  utter_definition_all_edges:
+    - text: "The all-edges or branch coverage criterion is a structural testing criterion which involves creating a test set such that, after the program is executed on this test set, every edge of the CFG (Control Flow Graph) of the program is traversed at least once. This motivates exercising different decisions in predicate nodes, as well as breaks inside loops and returns in functions."
+
+  utter_definition_all_paths:
+    - text: "The all-paths or pah coverage criterion is a structural testing criterion which involves creating a test set such that, after the program is executed on this test set, every possible complete path of the CFG (Control Flow Graph) of the program is traversed at least once. This is a requisite very difficult to accomplish, since the number of paths can grow exponentially, and some of them might not even be executable."
+
+  utter_definition_requirement_all_nodes:
+    - text: "The minimum test requirement of all-nodes or statement coverage criterion is the guarantee that all statements of the program have been executed by at least one test case."
+
+  utter_definition_requirement_all_edges:
+    - text: "The minimum test requirement of all-edges or branch coverage criterion is that every branch of control flow of the program has been executed at least once."
+
+  utter_definition_requirement_all_paths:
+    - text: "The minimum test requirement of all-paths criterions is that every path from the start node of the CFG to the exit node has been traversed at least once in the execution of a test set."
+
+  utter_definition_cyclomatic_complexity:
+    - text: "The cyclomatic complexity of a program is a metric defined by McCabe to measure the complexity of a program. It is defined by C = E – V + 2, where C is the complexity, V is the number of vertices and E is the number of edges. It can also be obtained by the number of predicate nodes plus one."
+
+  utter_definition_control_flow_graph:
+    - text: "The control flow graph (CFG) is a graph representation of a certain program, in which the nodes correspond to sequences of instructions, edges correspond to path decisions (e.g. an if statement) and the start node corresponds to the beginning of the program. The CFG is a very important tool in white-box testing, because it represents very well the structure of the program."
+
+  utter_definition_node:
+    - text: "A node in a control flow graph represents a group of instructions that are always executed together. They are the circles of the graph."
+
+  utter_definition_edge:
+    - text: "An edge represents a connection between two groups of instructions. The edges are the arrows of the graph."
+
+  utter_definition_cycle:
+    - text: "A cycle is a path that connects the first node to the last. They are usually the loops in CFG."
+
+  utter_definition_graph:
+    - text: "A graph is a mathematical tool used to represent elements that connect to each other. It is composed by nodes (circles) and edges (arrows), where the nodes are the elements we want to represent and the edges are the connections between them."
+
+  utter_definition_predicate_node:
+    - text: "A predicate node is a node that has more than one out-edge. A classic example is the condition of an if statement."
+
+  utter_definition_path:
+    - text: "A path a list of nodes that can be traversed sequentially, following it’s edges. In CFG, a path represents the execution of the program for some specific input."
+
+  utter_definition_simple_path:
+    - text: "A simple path is a path with no repeated nodes."
+
+  utter_definition_complete_path:
+    - text: "A complete path in a CFG is a path where it’s first node is an entry node and the last is an exit node."
+
+  utter_definition_control_flow:
+    - text: "The control flow is the flow of instructions that are executed in a program. The control flow graph is a modeling of possible paths and flow of instructions that can occur in the execution of a specific program."
+
+  utter_definition_data_flow:
+    - text: "The data flow is the flow of data or information handled by a program. It is another area of study in software testing and engineering, that focus on analysing the sequence of procedures and paths some given piece of data is used and processed at."
+
+  utter_definition_non_executable_path:
+    - text: "A non executable path is a path in the CFG graph for which there is no data input that causes the execution of it."
+
+  utter_definition_path_execution:
+    - text: "A path execution is the execution, in sequence, of the statements of every node in it."
+
+  utter_definition_primitive_edge:
+    - text: "Primitive edges are all edges coming out of predicate nodes, that may or may not be traversed."
+
+  utter_definition_software_testing:
+    - text: "Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance."
+
+  utter_definition_functional_testing:
+    - text: "Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing."
+
+  utter_definition_equivalence_partitioning:
+    - text: "Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work."
+
+  utter_definition_boundary_value:
+    - text: "Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs."
+
+  utter_definition_mistake:
+    - text: "A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake."
+
+  utter_definition_error:
+    - text: "An error is a state of execution of the program which is not expected and may lead to an incorrect result."
+
+  utter_definition_defect:
+    - text: "Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation."
+
+  utter_definition_failure:
+    - text: "A failure is a result of the program which is incorrect or not expected. This is caused by an error."
+
+  utter_definition_input_domain:
+    - text: "The input domain is a set of values that can be used to execute a certain program. The input domain specifies all the possible sets of values."
+
+  utter_definition_equivalence_class:
+    - text: "An equivalency class represents a set of valid and invalid states for the input conditions. For example, if your input must be a number N between 1 and 100, then one (invalid) equivalency class is the set of numbers less than one, another (invalid) equivalency class is the set of numbers greater than 100 and the third (valid) is the set of numbers between 1 and 100."
+
+  utter_definition_testing_criteria:
+    - text: "A testing criteria or technique is a set of rules which define the information to be used to create a test set, in order to fulfill some objective. For example, the white-box testing uses the information of the code’s structure to create a test set."
+
+  utter_definition_testing:
+    - text: "Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice."
+
+  utter_definition_output_domain:
+    - text: "The output domain is the set of values produced by the execution of a certain program. The output domain specifies all the possible sets of values that can be generated."
+
+  utter_definition_test:
+    - text: "A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes."
+
+  utter_definition_test_data:
+    - text: "The test data (or test input) is the input data and the parameters associated with a specified test case."
+
+  utter_definition_test_case:
+    - text: "A test case is composed by the test input, the execution conditions and the expected output to be produced by the program."
+
+  utter_definition_test_set:
+    - text: "The test set is composed by several test cases that are used in a software testing activity."
+
+  utter_definition_oracle:
+    - text: "An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive."
+
+  utter_definition_unit_testing:
+    - text: "Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing."
+
+  utter_definition_integration_testing:
+    - text: "Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software."
+
+  utter_definition_stress_testing:
+    - text: "Stress testing exercises software at the maximum design load, as well as beyond it, with the goal of determining the behavioral limits, and to test defense mechanisms in critical systems."
+
+  utter_definition_structural_testing:
+    - text: "Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing."
+
+  utter_definition_system_testing:
+    - text: "System testing is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements."
+
+  utter_definition_acceptance_testing:
+    - text: "Acceptance testing is a level of software testing where a system is tested for acceptability. The purpose of this test is to evaluate the system’s compliance with the business requirements and assess whether it is acceptable for delivery."
+
+  utter_definition_criteria_testing:
+    - text: "A test selection criterion is a means of selecting test cases or determining that a set of test cases is sufficient for a specified purpose. Test adequacy criteria can be used to decide when sufficient testing will be, or has been accomplished."
+
+  utter_definition_systematic_functional_testing:
+    - text: "Systematic Functional Testing combines the boundary value analysis and equivalence partitioning criteria. When the input and output domains have been partitioned, this criterion requests at least two test cases for each partition, in order to minimize issues associated to defects which are capable of leading to failures."
+
+  utter_definition_cause-effect_graph:
+    - text: "Cause Effect Graph is a functional testing criterion that graphically illustrates the relationship among a given outcome and all the factors that influence the outcome. It is also known as Ishikawa diagram as it was invented by Kaoru Ishikawa or fish bone diagram because of the way it looks."
+
+  utter_definition_limit_value:
+    - text: "The limit values are generally the boundaries of an interval in which the input is well defined, i.e. the boundaries of the input domain."
+
+  utter_definition_fault_based_testing:
+    - text: "The fault-based testing is a technique to create test sets that uses the information of the most likely and predefined faults. Hence, the test cases chosen have are better at revealing those likely faults (if present) in the program. To better focus the test case generation or selection, a fault model can be introduced that classifies the different types of faults."
+
+  utter_definition_state_transition:
+    - text: "It is a criteria within functional testing, but I still don’t have enough knowledge about that, sorry…"
 
 session_config:
   session_expiration_time: 60  # value in minutes, 0 means infinitely long
