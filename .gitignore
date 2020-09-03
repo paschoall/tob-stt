@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 /rasa-bot/models/
+*.dot
 
 # Pycharm
 *.idea/
