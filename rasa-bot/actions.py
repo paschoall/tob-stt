@@ -49,33 +49,16 @@ class ActionAskHowTo(Action):
         return []
 
 
-class ActionCiteExample(Action):
+class ActionDisplaySlot(Action):
 
     def name(self) -> Text:
-        return "action_cite_example"
+        return "action_display_slot"
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-        logging.info("[Debug] Intent: Example")
-        try:
-            concept = next(tracker.get_latest_entity_values(entity_type="concept")).lower()
-            logging.info(f"[Debug] Concept {concept}")
-            example = concept.replace(" ", "_")
-
-            dispatcher.utter_message(template=f"utter_example_{example}")
-            text = tracker.get_last_event_for("bot")["text"]
-            logging.info(f"Bot said: {text}")
-            logging.info(tracker.last_executed_action_has("utter"))
-        except StopIteration:
-            logging.info(f"[Debug] No concept detected")
-            dispatcher.utter_message(text="I don't understand which subject you want an example")
-
-        # TODO check how to get the key error
-        except KeyError:
-            logging.info(f"[Debug] No concept found")
-            dispatcher.utter_message(template="utter_default")
+        logging.info(f"Concept slot detected: {tracker.get_slot('concept')}")
 
         return []
 

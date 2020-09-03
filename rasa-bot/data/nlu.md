@@ -54,5 +54,10 @@
 - could you show me an example of [failure](concept)
 - example of [input domain](concept)
 - example of [equivalence class](concept)
+- please, show me an example of [if](concept)
+- [for](concept) example
+- i want a example of [while](concept)
+- example of [do while](concept)
+- can you show me an example of [switch](concept)
 
 
