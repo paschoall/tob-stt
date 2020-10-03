@@ -5,6 +5,7 @@ __pycache__/
 
 /rasa-bot/models/
 /rasa-bot/db/
+*/credentials.yml
 *.dot
 
 # Pycharm
