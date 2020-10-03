@@ -9,6 +9,10 @@
 - hi folks
 - hello
 
+## intent:start
+- start
+- /start
+
 ## intent:bye
 - goodbye
 - goodnight

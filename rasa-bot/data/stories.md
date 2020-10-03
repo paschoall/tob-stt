@@ -10,6 +10,11 @@
 * bye
   - utter_bye
   
+## start
+* start
+  - utter_greet
+  - utter_start
+  
 <!--Intent HOW TO USE
 Template:
 ## how to use NAME

@@ -5,6 +5,7 @@ intents:
   - how_to_use
   - cite_example
   - define
+  - start
 
 slots:
   concept:
@@ -76,6 +77,14 @@ responses:
 
   utter_greet:
     - text: Hi
+
+  utter_start:
+    - text: Here are some examples you can ask me
+      buttons:
+        - title: "What is an oracle?"
+          payload: "What is an oracle?"
+        - title: "Example of a equivalence class"
+          payload: "Example of a equivalence class"
 
   utter_bye:
     - text: Bye!
