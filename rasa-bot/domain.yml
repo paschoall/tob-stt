@@ -150,7 +150,7 @@ responses:
     - text: "Suppose your input is a string with exactly 16 digits and containing only lower case letters, then the input domain consists of 26^16 possibilities"
 
   utter_example_equivalence_class:
-    - text: "In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example."
+    - text: "In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example."
 
   utter_example_if:
     - text: "An if statement can be represented as in the picture below:"
